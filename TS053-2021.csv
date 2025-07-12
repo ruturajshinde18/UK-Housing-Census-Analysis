@@ -1,0 +1,1987 @@
+Lower tier local authorities Code,Lower tier local authorities,Occupancy rating for rooms (6 categories) Code,Occupancy rating for rooms (6 categories),Observation
+E06000001,Hartlepool,-8,Does not apply,0
+E06000001,Hartlepool,1,Occupancy rating of rooms: +2 or more,20016
+E06000001,Hartlepool,2,Occupancy rating of rooms: +1,12148
+E06000001,Hartlepool,3,Occupancy rating of rooms: 0,7472
+E06000001,Hartlepool,4,Occupancy rating of rooms: -1,1146
+E06000001,Hartlepool,5,Occupancy rating of rooms: -2 or less,149
+E06000002,Middlesbrough,-8,Does not apply,0
+E06000002,Middlesbrough,1,Occupancy rating of rooms: +2 or more,29141
+E06000002,Middlesbrough,2,Occupancy rating of rooms: +1,17235
+E06000002,Middlesbrough,3,Occupancy rating of rooms: 0,11349
+E06000002,Middlesbrough,4,Occupancy rating of rooms: -1,2104
+E06000002,Middlesbrough,5,Occupancy rating of rooms: -2 or less,433
+E06000003,Redcar and Cleveland,-8,Does not apply,0
+E06000003,Redcar and Cleveland,1,Occupancy rating of rooms: +2 or more,32062
+E06000003,Redcar and Cleveland,2,Occupancy rating of rooms: +1,17889
+E06000003,Redcar and Cleveland,3,Occupancy rating of rooms: 0,10160
+E06000003,Redcar and Cleveland,4,Occupancy rating of rooms: -1,1346
+E06000003,Redcar and Cleveland,5,Occupancy rating of rooms: -2 or less,181
+E06000004,Stockton-on-Tees,-8,Does not apply,0
+E06000004,Stockton-on-Tees,1,Occupancy rating of rooms: +2 or more,45141
+E06000004,Stockton-on-Tees,2,Occupancy rating of rooms: +1,23181
+E06000004,Stockton-on-Tees,3,Occupancy rating of rooms: 0,12984
+E06000004,Stockton-on-Tees,4,Occupancy rating of rooms: -1,2028
+E06000004,Stockton-on-Tees,5,Occupancy rating of rooms: -2 or less,423
+E06000005,Darlington,-8,Does not apply,0
+E06000005,Darlington,1,Occupancy rating of rooms: +2 or more,24332
+E06000005,Darlington,2,Occupancy rating of rooms: +1,14827
+E06000005,Darlington,3,Occupancy rating of rooms: 0,8506
+E06000005,Darlington,4,Occupancy rating of rooms: -1,1106
+E06000005,Darlington,5,Occupancy rating of rooms: -2 or less,148
+E06000006,Halton,-8,Does not apply,0
+E06000006,Halton,1,Occupancy rating of rooms: +2 or more,28411
+E06000006,Halton,2,Occupancy rating of rooms: +1,16174
+E06000006,Halton,3,Occupancy rating of rooms: 0,9657
+E06000006,Halton,4,Occupancy rating of rooms: -1,1488
+E06000006,Halton,5,Occupancy rating of rooms: -2 or less,221
+E06000007,Warrington,-8,Does not apply,0
+E06000007,Warrington,1,Occupancy rating of rooms: +2 or more,48267
+E06000007,Warrington,2,Occupancy rating of rooms: +1,23867
+E06000007,Warrington,3,Occupancy rating of rooms: 0,15694
+E06000007,Warrington,4,Occupancy rating of rooms: -1,2405
+E06000007,Warrington,5,Occupancy rating of rooms: -2 or less,305
+E06000008,Blackburn with Darwen,-8,Does not apply,0
+E06000008,Blackburn with Darwen,1,Occupancy rating of rooms: +2 or more,21318
+E06000008,Blackburn with Darwen,2,Occupancy rating of rooms: +1,18723
+E06000008,Blackburn with Darwen,3,Occupancy rating of rooms: 0,13655
+E06000008,Blackburn with Darwen,4,Occupancy rating of rooms: -1,3709
+E06000008,Blackburn with Darwen,5,Occupancy rating of rooms: -2 or less,1362
+E06000009,Blackpool,-8,Does not apply,0
+E06000009,Blackpool,1,Occupancy rating of rooms: +2 or more,32323
+E06000009,Blackpool,2,Occupancy rating of rooms: +1,16745
+E06000009,Blackpool,3,Occupancy rating of rooms: 0,13356
+E06000009,Blackpool,4,Occupancy rating of rooms: -1,2151
+E06000009,Blackpool,5,Occupancy rating of rooms: -2 or less,214
+E06000010,Kingston upon Hull,-8,Does not apply,0
+E06000010,Kingston upon Hull,1,Occupancy rating of rooms: +2 or more,42912
+E06000010,Kingston upon Hull,2,Occupancy rating of rooms: +1,38182
+E06000010,Kingston upon Hull,3,Occupancy rating of rooms: 0,28710
+E06000010,Kingston upon Hull,4,Occupancy rating of rooms: -1,4857
+E06000010,Kingston upon Hull,5,Occupancy rating of rooms: -2 or less,811
+E06000011,East Riding of Yorkshire,-8,Does not apply,0
+E06000011,East Riding of Yorkshire,1,Occupancy rating of rooms: +2 or more,85751
+E06000011,East Riding of Yorkshire,2,Occupancy rating of rooms: +1,42539
+E06000011,East Riding of Yorkshire,3,Occupancy rating of rooms: 0,20632
+E06000011,East Riding of Yorkshire,4,Occupancy rating of rooms: -1,2830
+E06000011,East Riding of Yorkshire,5,Occupancy rating of rooms: -2 or less,314
+E06000012,North East Lincolnshire,-8,Does not apply,0
+E06000012,North East Lincolnshire,1,Occupancy rating of rooms: +2 or more,41971
+E06000012,North East Lincolnshire,2,Occupancy rating of rooms: +1,16468
+E06000012,North East Lincolnshire,3,Occupancy rating of rooms: 0,10013
+E06000012,North East Lincolnshire,4,Occupancy rating of rooms: -1,1241
+E06000012,North East Lincolnshire,5,Occupancy rating of rooms: -2 or less,134
+E06000013,North Lincolnshire,-8,Does not apply,0
+E06000013,North Lincolnshire,1,Occupancy rating of rooms: +2 or more,41887
+E06000013,North Lincolnshire,2,Occupancy rating of rooms: +1,19230
+E06000013,North Lincolnshire,3,Occupancy rating of rooms: 0,10378
+E06000013,North Lincolnshire,4,Occupancy rating of rooms: -1,1405
+E06000013,North Lincolnshire,5,Occupancy rating of rooms: -2 or less,273
+E06000014,York,-8,Does not apply,0
+E06000014,York,1,Occupancy rating of rooms: +2 or more,38642
+E06000014,York,2,Occupancy rating of rooms: +1,25351
+E06000014,York,3,Occupancy rating of rooms: 0,17707
+E06000014,York,4,Occupancy rating of rooms: -1,3465
+E06000014,York,5,Occupancy rating of rooms: -2 or less,294
+E06000015,Derby,-8,Does not apply,0
+E06000015,Derby,1,Occupancy rating of rooms: +2 or more,49173
+E06000015,Derby,2,Occupancy rating of rooms: +1,28674
+E06000015,Derby,3,Occupancy rating of rooms: 0,21777
+E06000015,Derby,4,Occupancy rating of rooms: -1,4535
+E06000015,Derby,5,Occupancy rating of rooms: -2 or less,1493
+E06000016,Leicester,-8,Does not apply,0
+E06000016,Leicester,1,Occupancy rating of rooms: +2 or more,46357
+E06000016,Leicester,2,Occupancy rating of rooms: +1,30547
+E06000016,Leicester,3,Occupancy rating of rooms: 0,33607
+E06000016,Leicester,4,Occupancy rating of rooms: -1,12350
+E06000016,Leicester,5,Occupancy rating of rooms: -2 or less,4528
+E06000017,Rutland,-8,Does not apply,0
+E06000017,Rutland,1,Occupancy rating of rooms: +2 or more,10960
+E06000017,Rutland,2,Occupancy rating of rooms: +1,3605
+E06000017,Rutland,3,Occupancy rating of rooms: 0,1892
+E06000017,Rutland,4,Occupancy rating of rooms: -1,202
+E06000017,Rutland,5,Occupancy rating of rooms: -2 or less,34
+E06000018,Nottingham,-8,Does not apply,0
+E06000018,Nottingham,1,Occupancy rating of rooms: +2 or more,43636
+E06000018,Nottingham,2,Occupancy rating of rooms: +1,35433
+E06000018,Nottingham,3,Occupancy rating of rooms: 0,34983
+E06000018,Nottingham,4,Occupancy rating of rooms: -1,8689
+E06000018,Nottingham,5,Occupancy rating of rooms: -2 or less,2001
+E06000019,Herefordshire,-8,Does not apply,0
+E06000019,Herefordshire,1,Occupancy rating of rooms: +2 or more,45661
+E06000019,Herefordshire,2,Occupancy rating of rooms: +1,19280
+E06000019,Herefordshire,3,Occupancy rating of rooms: 0,14788
+E06000019,Herefordshire,4,Occupancy rating of rooms: -1,2779
+E06000019,Herefordshire,5,Occupancy rating of rooms: -2 or less,319
+E06000020,Telford and Wrekin,-8,Does not apply,0
+E06000020,Telford and Wrekin,1,Occupancy rating of rooms: +2 or more,37455
+E06000020,Telford and Wrekin,2,Occupancy rating of rooms: +1,22184
+E06000020,Telford and Wrekin,3,Occupancy rating of rooms: 0,14184
+E06000020,Telford and Wrekin,4,Occupancy rating of rooms: -1,2253
+E06000020,Telford and Wrekin,5,Occupancy rating of rooms: -2 or less,434
+E06000021,Stoke-on-Trent,-8,Does not apply,0
+E06000021,Stoke-on-Trent,1,Occupancy rating of rooms: +2 or more,49847
+E06000021,Stoke-on-Trent,2,Occupancy rating of rooms: +1,34337
+E06000021,Stoke-on-Trent,3,Occupancy rating of rooms: 0,21406
+E06000021,Stoke-on-Trent,4,Occupancy rating of rooms: -1,3969
+E06000021,Stoke-on-Trent,5,Occupancy rating of rooms: -2 or less,841
+E06000022,Bath and North East Somerset,-8,Does not apply,0
+E06000022,Bath and North East Somerset,1,Occupancy rating of rooms: +2 or more,39337
+E06000022,Bath and North East Somerset,2,Occupancy rating of rooms: +1,19059
+E06000022,Bath and North East Somerset,3,Occupancy rating of rooms: 0,16762
+E06000022,Bath and North East Somerset,4,Occupancy rating of rooms: -1,3711
+E06000022,Bath and North East Somerset,5,Occupancy rating of rooms: -2 or less,381
+E06000023,Bristol,-8,Does not apply,0
+E06000023,Bristol,1,Occupancy rating of rooms: +2 or more,78676
+E06000023,Bristol,2,Occupancy rating of rooms: +1,47154
+E06000023,Bristol,3,Occupancy rating of rooms: 0,50019
+E06000023,Bristol,4,Occupancy rating of rooms: -1,13497
+E06000023,Bristol,5,Occupancy rating of rooms: -2 or less,2292
+E06000024,North Somerset,-8,Does not apply,0
+E06000024,North Somerset,1,Occupancy rating of rooms: +2 or more,48828
+E06000024,North Somerset,2,Occupancy rating of rooms: +1,25721
+E06000024,North Somerset,3,Occupancy rating of rooms: 0,16609
+E06000024,North Somerset,4,Occupancy rating of rooms: -1,3172
+E06000024,North Somerset,5,Occupancy rating of rooms: -2 or less,320
+E06000025,South Gloucestershire,-8,Does not apply,0
+E06000025,South Gloucestershire,1,Occupancy rating of rooms: +2 or more,64419
+E06000025,South Gloucestershire,2,Occupancy rating of rooms: +1,29408
+E06000025,South Gloucestershire,3,Occupancy rating of rooms: 0,20448
+E06000025,South Gloucestershire,4,Occupancy rating of rooms: -1,3391
+E06000025,South Gloucestershire,5,Occupancy rating of rooms: -2 or less,435
+E06000026,Plymouth,-8,Does not apply,0
+E06000026,Plymouth,1,Occupancy rating of rooms: +2 or more,48724
+E06000026,Plymouth,2,Occupancy rating of rooms: +1,31892
+E06000026,Plymouth,3,Occupancy rating of rooms: 0,28154
+E06000026,Plymouth,4,Occupancy rating of rooms: -1,5194
+E06000026,Plymouth,5,Occupancy rating of rooms: -2 or less,594
+E06000027,Torbay,-8,Does not apply,0
+E06000027,Torbay,1,Occupancy rating of rooms: +2 or more,26812
+E06000027,Torbay,2,Occupancy rating of rooms: +1,19082
+E06000027,Torbay,3,Occupancy rating of rooms: 0,13778
+E06000027,Torbay,4,Occupancy rating of rooms: -1,2991
+E06000027,Torbay,5,Occupancy rating of rooms: -2 or less,331
+E06000030,Swindon,-8,Does not apply,0
+E06000030,Swindon,1,Occupancy rating of rooms: +2 or more,43039
+E06000030,Swindon,2,Occupancy rating of rooms: +1,25691
+E06000030,Swindon,3,Occupancy rating of rooms: 0,21712
+E06000030,Swindon,4,Occupancy rating of rooms: -1,4395
+E06000030,Swindon,5,Occupancy rating of rooms: -2 or less,1025
+E06000031,Peterborough,-8,Does not apply,0
+E06000031,Peterborough,1,Occupancy rating of rooms: +2 or more,36334
+E06000031,Peterborough,2,Occupancy rating of rooms: +1,22170
+E06000031,Peterborough,3,Occupancy rating of rooms: 0,20015
+E06000031,Peterborough,4,Occupancy rating of rooms: -1,4899
+E06000031,Peterborough,5,Occupancy rating of rooms: -2 or less,1115
+E06000032,Luton,-8,Does not apply,0
+E06000032,Luton,1,Occupancy rating of rooms: +2 or more,26759
+E06000032,Luton,2,Occupancy rating of rooms: +1,19018
+E06000032,Luton,3,Occupancy rating of rooms: 0,21617
+E06000032,Luton,4,Occupancy rating of rooms: -1,8760
+E06000032,Luton,5,Occupancy rating of rooms: -2 or less,2786
+E06000033,Southend-on-Sea,-8,Does not apply,0
+E06000033,Southend-on-Sea,1,Occupancy rating of rooms: +2 or more,32849
+E06000033,Southend-on-Sea,2,Occupancy rating of rooms: +1,20314
+E06000033,Southend-on-Sea,3,Occupancy rating of rooms: 0,19878
+E06000033,Southend-on-Sea,4,Occupancy rating of rooms: -1,4680
+E06000033,Southend-on-Sea,5,Occupancy rating of rooms: -2 or less,623
+E06000034,Thurrock,-8,Does not apply,0
+E06000034,Thurrock,1,Occupancy rating of rooms: +2 or more,23533
+E06000034,Thurrock,2,Occupancy rating of rooms: +1,18072
+E06000034,Thurrock,3,Occupancy rating of rooms: 0,18744
+E06000034,Thurrock,4,Occupancy rating of rooms: -1,4979
+E06000034,Thurrock,5,Occupancy rating of rooms: -2 or less,1049
+E06000035,Medway,-8,Does not apply,0
+E06000035,Medway,1,Occupancy rating of rooms: +2 or more,51648
+E06000035,Medway,2,Occupancy rating of rooms: +1,29497
+E06000035,Medway,3,Occupancy rating of rooms: 0,23654
+E06000035,Medway,4,Occupancy rating of rooms: -1,5700
+E06000035,Medway,5,Occupancy rating of rooms: -2 or less,959
+E06000036,Bracknell Forest,-8,Does not apply,0
+E06000036,Bracknell Forest,1,Occupancy rating of rooms: +2 or more,23471
+E06000036,Bracknell Forest,2,Occupancy rating of rooms: +1,12966
+E06000036,Bracknell Forest,3,Occupancy rating of rooms: 0,11347
+E06000036,Bracknell Forest,4,Occupancy rating of rooms: -1,2183
+E06000036,Bracknell Forest,5,Occupancy rating of rooms: -2 or less,281
+E06000037,West Berkshire,-8,Does not apply,0
+E06000037,West Berkshire,1,Occupancy rating of rooms: +2 or more,34726
+E06000037,West Berkshire,2,Occupancy rating of rooms: +1,16558
+E06000037,West Berkshire,3,Occupancy rating of rooms: 0,12702
+E06000037,West Berkshire,4,Occupancy rating of rooms: -1,2402
+E06000037,West Berkshire,5,Occupancy rating of rooms: -2 or less,270
+E06000038,Reading,-8,Does not apply,0
+E06000038,Reading,1,Occupancy rating of rooms: +2 or more,25314
+E06000038,Reading,2,Occupancy rating of rooms: +1,16619
+E06000038,Reading,3,Occupancy rating of rooms: 0,18938
+E06000038,Reading,4,Occupancy rating of rooms: -1,5674
+E06000038,Reading,5,Occupancy rating of rooms: -2 or less,1139
+E06000039,Slough,-8,Does not apply,0
+E06000039,Slough,1,Occupancy rating of rooms: +2 or more,12801
+E06000039,Slough,2,Occupancy rating of rooms: +1,11883
+E06000039,Slough,3,Occupancy rating of rooms: 0,17534
+E06000039,Slough,4,Occupancy rating of rooms: -1,7706
+E06000039,Slough,5,Occupancy rating of rooms: -2 or less,2500
+E06000040,Windsor and Maidenhead,-8,Does not apply,0
+E06000040,Windsor and Maidenhead,1,Occupancy rating of rooms: +2 or more,31337
+E06000040,Windsor and Maidenhead,2,Occupancy rating of rooms: +1,14907
+E06000040,Windsor and Maidenhead,3,Occupancy rating of rooms: 0,11690
+E06000040,Windsor and Maidenhead,4,Occupancy rating of rooms: -1,2502
+E06000040,Windsor and Maidenhead,5,Occupancy rating of rooms: -2 or less,496
+E06000041,Wokingham,-8,Does not apply,0
+E06000041,Wokingham,1,Occupancy rating of rooms: +2 or more,39557
+E06000041,Wokingham,2,Occupancy rating of rooms: +1,16463
+E06000041,Wokingham,3,Occupancy rating of rooms: 0,10889
+E06000041,Wokingham,4,Occupancy rating of rooms: -1,2004
+E06000041,Wokingham,5,Occupancy rating of rooms: -2 or less,251
+E06000042,Milton Keynes,-8,Does not apply,0
+E06000042,Milton Keynes,1,Occupancy rating of rooms: +2 or more,49435
+E06000042,Milton Keynes,2,Occupancy rating of rooms: +1,28935
+E06000042,Milton Keynes,3,Occupancy rating of rooms: 0,26537
+E06000042,Milton Keynes,4,Occupancy rating of rooms: -1,6789
+E06000042,Milton Keynes,5,Occupancy rating of rooms: -2 or less,1406
+E06000043,Brighton and Hove,-8,Does not apply,0
+E06000043,Brighton and Hove,1,Occupancy rating of rooms: +2 or more,37565
+E06000043,Brighton and Hove,2,Occupancy rating of rooms: +1,30229
+E06000043,Brighton and Hove,3,Occupancy rating of rooms: 0,38395
+E06000043,Brighton and Hove,4,Occupancy rating of rooms: -1,13957
+E06000043,Brighton and Hove,5,Occupancy rating of rooms: -2 or less,1256
+E06000044,Portsmouth,-8,Does not apply,0
+E06000044,Portsmouth,1,Occupancy rating of rooms: +2 or more,36501
+E06000044,Portsmouth,2,Occupancy rating of rooms: +1,22193
+E06000044,Portsmouth,3,Occupancy rating of rooms: 0,21375
+E06000044,Portsmouth,4,Occupancy rating of rooms: -1,5381
+E06000044,Portsmouth,5,Occupancy rating of rooms: -2 or less,705
+E06000045,Southampton,-8,Does not apply,0
+E06000045,Southampton,1,Occupancy rating of rooms: +2 or more,34102
+E06000045,Southampton,2,Occupancy rating of rooms: +1,26638
+E06000045,Southampton,3,Occupancy rating of rooms: 0,31638
+E06000045,Southampton,4,Occupancy rating of rooms: -1,8678
+E06000045,Southampton,5,Occupancy rating of rooms: -2 or less,1236
+E06000046,Isle of Wight,-8,Does not apply,0
+E06000046,Isle of Wight,1,Occupancy rating of rooms: +2 or more,31072
+E06000046,Isle of Wight,2,Occupancy rating of rooms: +1,18840
+E06000046,Isle of Wight,3,Occupancy rating of rooms: 0,12165
+E06000046,Isle of Wight,4,Occupancy rating of rooms: -1,2438
+E06000046,Isle of Wight,5,Occupancy rating of rooms: -2 or less,260
+E06000047,County Durham,-8,Does not apply,0
+E06000047,County Durham,1,Occupancy rating of rooms: +2 or more,111848
+E06000047,County Durham,2,Occupancy rating of rooms: +1,77976
+E06000047,County Durham,3,Occupancy rating of rooms: 0,38615
+E06000047,County Durham,4,Occupancy rating of rooms: -1,5613
+E06000047,County Durham,5,Occupancy rating of rooms: -2 or less,709
+E06000049,Cheshire East,-8,Does not apply,0
+E06000049,Cheshire East,1,Occupancy rating of rooms: +2 or more,98959
+E06000049,Cheshire East,2,Occupancy rating of rooms: +1,45912
+E06000049,Cheshire East,3,Occupancy rating of rooms: 0,25680
+E06000049,Cheshire East,4,Occupancy rating of rooms: -1,3764
+E06000049,Cheshire East,5,Occupancy rating of rooms: -2 or less,541
+E06000050,Cheshire West and Chester,-8,Does not apply,0
+E06000050,Cheshire West and Chester,1,Occupancy rating of rooms: +2 or more,86119
+E06000050,Cheshire West and Chester,2,Occupancy rating of rooms: +1,40607
+E06000050,Cheshire West and Chester,3,Occupancy rating of rooms: 0,24274
+E06000050,Cheshire West and Chester,4,Occupancy rating of rooms: -1,3642
+E06000050,Cheshire West and Chester,5,Occupancy rating of rooms: -2 or less,514
+E06000051,Shropshire,-8,Does not apply,0
+E06000051,Shropshire,1,Occupancy rating of rooms: +2 or more,78474
+E06000051,Shropshire,2,Occupancy rating of rooms: +1,36152
+E06000051,Shropshire,3,Occupancy rating of rooms: 0,20920
+E06000051,Shropshire,4,Occupancy rating of rooms: -1,3275
+E06000051,Shropshire,5,Occupancy rating of rooms: -2 or less,758
+E06000052,Cornwall,-8,Does not apply,0
+E06000052,Cornwall,1,Occupancy rating of rooms: +2 or more,122253
+E06000052,Cornwall,2,Occupancy rating of rooms: +1,69062
+E06000052,Cornwall,3,Occupancy rating of rooms: 0,47367
+E06000052,Cornwall,4,Occupancy rating of rooms: -1,10608
+E06000052,Cornwall,5,Occupancy rating of rooms: -2 or less,1245
+E06000053,Isles of Scilly,-8,Does not apply,0
+E06000053,Isles of Scilly,1,Occupancy rating of rooms: +2 or more,463
+E06000053,Isles of Scilly,2,Occupancy rating of rooms: +1,234
+E06000053,Isles of Scilly,3,Occupancy rating of rooms: 0,201
+E06000053,Isles of Scilly,4,Occupancy rating of rooms: -1,43
+E06000053,Isles of Scilly,5,Occupancy rating of rooms: -2 or less,3
+E06000054,Wiltshire,-8,Does not apply,0
+E06000054,Wiltshire,1,Occupancy rating of rooms: +2 or more,117963
+E06000054,Wiltshire,2,Occupancy rating of rooms: +1,55356
+E06000054,Wiltshire,3,Occupancy rating of rooms: 0,35433
+E06000054,Wiltshire,4,Occupancy rating of rooms: -1,5658
+E06000054,Wiltshire,5,Occupancy rating of rooms: -2 or less,671
+E06000055,Bedford,-8,Does not apply,0
+E06000055,Bedford,1,Occupancy rating of rooms: +2 or more,37052
+E06000055,Bedford,2,Occupancy rating of rooms: +1,17407
+E06000055,Bedford,3,Occupancy rating of rooms: 0,15946
+E06000055,Bedford,4,Occupancy rating of rooms: -1,3859
+E06000055,Bedford,5,Occupancy rating of rooms: -2 or less,687
+E06000056,Central Bedfordshire,-8,Does not apply,0
+E06000056,Central Bedfordshire,1,Occupancy rating of rooms: +2 or more,62559
+E06000056,Central Bedfordshire,2,Occupancy rating of rooms: +1,31844
+E06000056,Central Bedfordshire,3,Occupancy rating of rooms: 0,22304
+E06000056,Central Bedfordshire,4,Occupancy rating of rooms: -1,3545
+E06000056,Central Bedfordshire,5,Occupancy rating of rooms: -2 or less,503
+E06000057,Northumberland,-8,Does not apply,0
+E06000057,Northumberland,1,Occupancy rating of rooms: +2 or more,77074
+E06000057,Northumberland,2,Occupancy rating of rooms: +1,43169
+E06000057,Northumberland,3,Occupancy rating of rooms: 0,23178
+E06000057,Northumberland,4,Occupancy rating of rooms: -1,3185
+E06000057,Northumberland,5,Occupancy rating of rooms: -2 or less,316
+E06000058,"Bournemouth, Christchurch and Poole",-8,Does not apply,0
+E06000058,"Bournemouth, Christchurch and Poole",1,Occupancy rating of rooms: +2 or more,68174
+E06000058,"Bournemouth, Christchurch and Poole",2,Occupancy rating of rooms: +1,49302
+E06000058,"Bournemouth, Christchurch and Poole",3,Occupancy rating of rooms: 0,43815
+E06000058,"Bournemouth, Christchurch and Poole",4,Occupancy rating of rooms: -1,11347
+E06000058,"Bournemouth, Christchurch and Poole",5,Occupancy rating of rooms: -2 or less,1202
+E06000059,Dorset,-8,Does not apply,0
+E06000059,Dorset,1,Occupancy rating of rooms: +2 or more,88387
+E06000059,Dorset,2,Occupancy rating of rooms: +1,45801
+E06000059,Dorset,3,Occupancy rating of rooms: 0,29646
+E06000059,Dorset,4,Occupancy rating of rooms: -1,4874
+E06000059,Dorset,5,Occupancy rating of rooms: -2 or less,553
+E06000060,Buckinghamshire,-8,Does not apply,0
+E06000060,Buckinghamshire,1,Occupancy rating of rooms: +2 or more,116612
+E06000060,Buckinghamshire,2,Occupancy rating of rooms: +1,51944
+E06000060,Buckinghamshire,3,Occupancy rating of rooms: 0,41981
+E06000060,Buckinghamshire,4,Occupancy rating of rooms: -1,8259
+E06000060,Buckinghamshire,5,Occupancy rating of rooms: -2 or less,1532
+E06000061,North Northamptonshire,-8,Does not apply,0
+E06000061,North Northamptonshire,1,Occupancy rating of rooms: +2 or more,78551
+E06000061,North Northamptonshire,2,Occupancy rating of rooms: +1,39295
+E06000061,North Northamptonshire,3,Occupancy rating of rooms: 0,25722
+E06000061,North Northamptonshire,4,Occupancy rating of rooms: -1,4648
+E06000061,North Northamptonshire,5,Occupancy rating of rooms: -2 or less,702
+E06000062,West Northamptonshire,-8,Does not apply,0
+E06000062,West Northamptonshire,1,Occupancy rating of rooms: +2 or more,88083
+E06000062,West Northamptonshire,2,Occupancy rating of rooms: +1,43739
+E06000062,West Northamptonshire,3,Occupancy rating of rooms: 0,32150
+E06000062,West Northamptonshire,4,Occupancy rating of rooms: -1,7249
+E06000062,West Northamptonshire,5,Occupancy rating of rooms: -2 or less,1419
+E07000008,Cambridge,-8,Does not apply,0
+E07000008,Cambridge,1,Occupancy rating of rooms: +2 or more,21141
+E07000008,Cambridge,2,Occupancy rating of rooms: +1,13128
+E07000008,Cambridge,3,Occupancy rating of rooms: 0,14253
+E07000008,Cambridge,4,Occupancy rating of rooms: -1,3285
+E07000008,Cambridge,5,Occupancy rating of rooms: -2 or less,665
+E07000009,East Cambridgeshire,-8,Does not apply,0
+E07000009,East Cambridgeshire,1,Occupancy rating of rooms: +2 or more,20075
+E07000009,East Cambridgeshire,2,Occupancy rating of rooms: +1,9914
+E07000009,East Cambridgeshire,3,Occupancy rating of rooms: 0,6102
+E07000009,East Cambridgeshire,4,Occupancy rating of rooms: -1,989
+E07000009,East Cambridgeshire,5,Occupancy rating of rooms: -2 or less,122
+E07000010,Fenland,-8,Does not apply,0
+E07000010,Fenland,1,Occupancy rating of rooms: +2 or more,21669
+E07000010,Fenland,2,Occupancy rating of rooms: +1,12784
+E07000010,Fenland,3,Occupancy rating of rooms: 0,7903
+E07000010,Fenland,4,Occupancy rating of rooms: -1,1500
+E07000010,Fenland,5,Occupancy rating of rooms: -2 or less,227
+E07000011,Huntingdonshire,-8,Does not apply,0
+E07000011,Huntingdonshire,1,Occupancy rating of rooms: +2 or more,43277
+E07000011,Huntingdonshire,2,Occupancy rating of rooms: +1,18656
+E07000011,Huntingdonshire,3,Occupancy rating of rooms: 0,12820
+E07000011,Huntingdonshire,4,Occupancy rating of rooms: -1,1885
+E07000011,Huntingdonshire,5,Occupancy rating of rooms: -2 or less,242
+E07000012,South Cambridgeshire,-8,Does not apply,0
+E07000012,South Cambridgeshire,1,Occupancy rating of rooms: +2 or more,38515
+E07000012,South Cambridgeshire,2,Occupancy rating of rooms: +1,16427
+E07000012,South Cambridgeshire,3,Occupancy rating of rooms: 0,10453
+E07000012,South Cambridgeshire,4,Occupancy rating of rooms: -1,1439
+E07000012,South Cambridgeshire,5,Occupancy rating of rooms: -2 or less,162
+E07000026,Allerdale,-8,Does not apply,0
+E07000026,Allerdale,1,Occupancy rating of rooms: +2 or more,23806
+E07000026,Allerdale,2,Occupancy rating of rooms: +1,13512
+E07000026,Allerdale,3,Occupancy rating of rooms: 0,5743
+E07000026,Allerdale,4,Occupancy rating of rooms: -1,819
+E07000026,Allerdale,5,Occupancy rating of rooms: -2 or less,93
+E07000027,Barrow-in-Furness,-8,Does not apply,0
+E07000027,Barrow-in-Furness,1,Occupancy rating of rooms: +2 or more,15347
+E07000027,Barrow-in-Furness,2,Occupancy rating of rooms: +1,9546
+E07000027,Barrow-in-Furness,3,Occupancy rating of rooms: 0,5541
+E07000027,Barrow-in-Furness,4,Occupancy rating of rooms: -1,728
+E07000027,Barrow-in-Furness,5,Occupancy rating of rooms: -2 or less,97
+E07000028,Carlisle,-8,Does not apply,0
+E07000028,Carlisle,1,Occupancy rating of rooms: +2 or more,25401
+E07000028,Carlisle,2,Occupancy rating of rooms: +1,15731
+E07000028,Carlisle,3,Occupancy rating of rooms: 0,8438
+E07000028,Carlisle,4,Occupancy rating of rooms: -1,950
+E07000028,Carlisle,5,Occupancy rating of rooms: -2 or less,143
+E07000029,Copeland,-8,Does not apply,0
+E07000029,Copeland,1,Occupancy rating of rooms: +2 or more,17251
+E07000029,Copeland,2,Occupancy rating of rooms: +1,9154
+E07000029,Copeland,3,Occupancy rating of rooms: 0,3748
+E07000029,Copeland,4,Occupancy rating of rooms: -1,576
+E07000029,Copeland,5,Occupancy rating of rooms: -2 or less,62
+E07000030,Eden,-8,Does not apply,0
+E07000030,Eden,1,Occupancy rating of rooms: +2 or more,14439
+E07000030,Eden,2,Occupancy rating of rooms: +1,6520
+E07000030,Eden,3,Occupancy rating of rooms: 0,3110
+E07000030,Eden,4,Occupancy rating of rooms: -1,472
+E07000030,Eden,5,Occupancy rating of rooms: -2 or less,69
+E07000031,South Lakeland,-8,Does not apply,0
+E07000031,South Lakeland,1,Occupancy rating of rooms: +2 or more,26174
+E07000031,South Lakeland,2,Occupancy rating of rooms: +1,13195
+E07000031,South Lakeland,3,Occupancy rating of rooms: 0,7242
+E07000031,South Lakeland,4,Occupancy rating of rooms: -1,951
+E07000031,South Lakeland,5,Occupancy rating of rooms: -2 or less,95
+E07000032,Amber Valley,-8,Does not apply,0
+E07000032,Amber Valley,1,Occupancy rating of rooms: +2 or more,28635
+E07000032,Amber Valley,2,Occupancy rating of rooms: +1,17345
+E07000032,Amber Valley,3,Occupancy rating of rooms: 0,8830
+E07000032,Amber Valley,4,Occupancy rating of rooms: -1,1308
+E07000032,Amber Valley,5,Occupancy rating of rooms: -2 or less,159
+E07000033,Bolsover,-8,Does not apply,0
+E07000033,Bolsover,1,Occupancy rating of rooms: +2 or more,16518
+E07000033,Bolsover,2,Occupancy rating of rooms: +1,12350
+E07000033,Bolsover,3,Occupancy rating of rooms: 0,5314
+E07000033,Bolsover,4,Occupancy rating of rooms: -1,910
+E07000033,Bolsover,5,Occupancy rating of rooms: -2 or less,169
+E07000034,Chesterfield,-8,Does not apply,0
+E07000034,Chesterfield,1,Occupancy rating of rooms: +2 or more,21665
+E07000034,Chesterfield,2,Occupancy rating of rooms: +1,14932
+E07000034,Chesterfield,3,Occupancy rating of rooms: 0,9905
+E07000034,Chesterfield,4,Occupancy rating of rooms: -1,1390
+E07000034,Chesterfield,5,Occupancy rating of rooms: -2 or less,167
+E07000035,Derbyshire Dales,-8,Does not apply,0
+E07000035,Derbyshire Dales,1,Occupancy rating of rooms: +2 or more,18093
+E07000035,Derbyshire Dales,2,Occupancy rating of rooms: +1,8760
+E07000035,Derbyshire Dales,3,Occupancy rating of rooms: 0,4635
+E07000035,Derbyshire Dales,4,Occupancy rating of rooms: -1,731
+E07000035,Derbyshire Dales,5,Occupancy rating of rooms: -2 or less,64
+E07000036,Erewash,-8,Does not apply,0
+E07000036,Erewash,1,Occupancy rating of rooms: +2 or more,26473
+E07000036,Erewash,2,Occupancy rating of rooms: +1,14487
+E07000036,Erewash,3,Occupancy rating of rooms: 0,8136
+E07000036,Erewash,4,Occupancy rating of rooms: -1,1088
+E07000036,Erewash,5,Occupancy rating of rooms: -2 or less,150
+E07000037,High Peak,-8,Does not apply,0
+E07000037,High Peak,1,Occupancy rating of rooms: +2 or more,18663
+E07000037,High Peak,2,Occupancy rating of rooms: +1,13054
+E07000037,High Peak,3,Occupancy rating of rooms: 0,7679
+E07000037,High Peak,4,Occupancy rating of rooms: -1,1231
+E07000037,High Peak,5,Occupancy rating of rooms: -2 or less,145
+E07000038,North East Derbyshire,-8,Does not apply,0
+E07000038,North East Derbyshire,1,Occupancy rating of rooms: +2 or more,22983
+E07000038,North East Derbyshire,2,Occupancy rating of rooms: +1,14882
+E07000038,North East Derbyshire,3,Occupancy rating of rooms: 0,7085
+E07000038,North East Derbyshire,4,Occupancy rating of rooms: -1,924
+E07000038,North East Derbyshire,5,Occupancy rating of rooms: -2 or less,113
+E07000039,South Derbyshire,-8,Does not apply,0
+E07000039,South Derbyshire,1,Occupancy rating of rooms: +2 or more,26160
+E07000039,South Derbyshire,2,Occupancy rating of rooms: +1,12330
+E07000039,South Derbyshire,3,Occupancy rating of rooms: 0,5804
+E07000039,South Derbyshire,4,Occupancy rating of rooms: -1,836
+E07000039,South Derbyshire,5,Occupancy rating of rooms: -2 or less,108
+E07000040,East Devon,-8,Does not apply,0
+E07000040,East Devon,1,Occupancy rating of rooms: +2 or more,35534
+E07000040,East Devon,2,Occupancy rating of rooms: +1,19017
+E07000040,East Devon,3,Occupancy rating of rooms: 0,10408
+E07000040,East Devon,4,Occupancy rating of rooms: -1,1614
+E07000040,East Devon,5,Occupancy rating of rooms: -2 or less,218
+E07000041,Exeter,-8,Does not apply,0
+E07000041,Exeter,1,Occupancy rating of rooms: +2 or more,22851
+E07000041,Exeter,2,Occupancy rating of rooms: +1,13872
+E07000041,Exeter,3,Occupancy rating of rooms: 0,12713
+E07000041,Exeter,4,Occupancy rating of rooms: -1,2854
+E07000041,Exeter,5,Occupancy rating of rooms: -2 or less,265
+E07000042,Mid Devon,-8,Does not apply,0
+E07000042,Mid Devon,1,Occupancy rating of rooms: +2 or more,18657
+E07000042,Mid Devon,2,Occupancy rating of rooms: +1,9496
+E07000042,Mid Devon,3,Occupancy rating of rooms: 0,6298
+E07000042,Mid Devon,4,Occupancy rating of rooms: -1,1058
+E07000042,Mid Devon,5,Occupancy rating of rooms: -2 or less,124
+E07000043,North Devon,-8,Does not apply,0
+E07000043,North Devon,1,Occupancy rating of rooms: +2 or more,22112
+E07000043,North Devon,2,Occupancy rating of rooms: +1,11996
+E07000043,North Devon,3,Occupancy rating of rooms: 0,7733
+E07000043,North Devon,4,Occupancy rating of rooms: -1,1201
+E07000043,North Devon,5,Occupancy rating of rooms: -2 or less,152
+E07000044,South Hams,-8,Does not apply,0
+E07000044,South Hams,1,Occupancy rating of rooms: +2 or more,21604
+E07000044,South Hams,2,Occupancy rating of rooms: +1,10457
+E07000044,South Hams,3,Occupancy rating of rooms: 0,6248
+E07000044,South Hams,4,Occupancy rating of rooms: -1,919
+E07000044,South Hams,5,Occupancy rating of rooms: -2 or less,107
+E07000045,Teignbridge,-8,Does not apply,0
+E07000045,Teignbridge,1,Occupancy rating of rooms: +2 or more,30328
+E07000045,Teignbridge,2,Occupancy rating of rooms: +1,17161
+E07000045,Teignbridge,3,Occupancy rating of rooms: 0,10512
+E07000045,Teignbridge,4,Occupancy rating of rooms: -1,1652
+E07000045,Teignbridge,5,Occupancy rating of rooms: -2 or less,185
+E07000046,Torridge,-8,Does not apply,0
+E07000046,Torridge,1,Occupancy rating of rooms: +2 or more,16473
+E07000046,Torridge,2,Occupancy rating of rooms: +1,8650
+E07000046,Torridge,3,Occupancy rating of rooms: 0,4564
+E07000046,Torridge,4,Occupancy rating of rooms: -1,688
+E07000046,Torridge,5,Occupancy rating of rooms: -2 or less,82
+E07000047,West Devon,-8,Does not apply,0
+E07000047,West Devon,1,Occupancy rating of rooms: +2 or more,14150
+E07000047,West Devon,2,Occupancy rating of rooms: +1,6207
+E07000047,West Devon,3,Occupancy rating of rooms: 0,3762
+E07000047,West Devon,4,Occupancy rating of rooms: -1,613
+E07000047,West Devon,5,Occupancy rating of rooms: -2 or less,86
+E07000061,Eastbourne,-8,Does not apply,0
+E07000061,Eastbourne,1,Occupancy rating of rooms: +2 or more,17309
+E07000061,Eastbourne,2,Occupancy rating of rooms: +1,13578
+E07000061,Eastbourne,3,Occupancy rating of rooms: 0,11139
+E07000061,Eastbourne,4,Occupancy rating of rooms: -1,3191
+E07000061,Eastbourne,5,Occupancy rating of rooms: -2 or less,393
+E07000062,Hastings,-8,Does not apply,0
+E07000062,Hastings,1,Occupancy rating of rooms: +2 or more,16190
+E07000062,Hastings,2,Occupancy rating of rooms: +1,10944
+E07000062,Hastings,3,Occupancy rating of rooms: 0,10497
+E07000062,Hastings,4,Occupancy rating of rooms: -1,2500
+E07000062,Hastings,5,Occupancy rating of rooms: -2 or less,322
+E07000063,Lewes,-8,Does not apply,0
+E07000063,Lewes,1,Occupancy rating of rooms: +2 or more,20527
+E07000063,Lewes,2,Occupancy rating of rooms: +1,12169
+E07000063,Lewes,3,Occupancy rating of rooms: 0,8741
+E07000063,Lewes,4,Occupancy rating of rooms: -1,2046
+E07000063,Lewes,5,Occupancy rating of rooms: -2 or less,205
+E07000064,Rother,-8,Does not apply,0
+E07000064,Rother,1,Occupancy rating of rooms: +2 or more,21831
+E07000064,Rother,2,Occupancy rating of rooms: +1,11499
+E07000064,Rother,3,Occupancy rating of rooms: 0,7128
+E07000064,Rother,4,Occupancy rating of rooms: -1,1446
+E07000064,Rother,5,Occupancy rating of rooms: -2 or less,198
+E07000065,Wealden,-8,Does not apply,0
+E07000065,Wealden,1,Occupancy rating of rooms: +2 or more,37782
+E07000065,Wealden,2,Occupancy rating of rooms: +1,17675
+E07000065,Wealden,3,Occupancy rating of rooms: 0,10784
+E07000065,Wealden,4,Occupancy rating of rooms: -1,1821
+E07000065,Wealden,5,Occupancy rating of rooms: -2 or less,204
+E07000066,Basildon,-8,Does not apply,0
+E07000066,Basildon,1,Occupancy rating of rooms: +2 or more,32070
+E07000066,Basildon,2,Occupancy rating of rooms: +1,20455
+E07000066,Basildon,3,Occupancy rating of rooms: 0,18993
+E07000066,Basildon,4,Occupancy rating of rooms: -1,4217
+E07000066,Basildon,5,Occupancy rating of rooms: -2 or less,627
+E07000067,Braintree,-8,Does not apply,0
+E07000067,Braintree,1,Occupancy rating of rooms: +2 or more,32604
+E07000067,Braintree,2,Occupancy rating of rooms: +1,17403
+E07000067,Braintree,3,Occupancy rating of rooms: 0,12718
+E07000067,Braintree,4,Occupancy rating of rooms: -1,2008
+E07000067,Braintree,5,Occupancy rating of rooms: -2 or less,252
+E07000068,Brentwood,-8,Does not apply,0
+E07000068,Brentwood,1,Occupancy rating of rooms: +2 or more,16335
+E07000068,Brentwood,2,Occupancy rating of rooms: +1,7982
+E07000068,Brentwood,3,Occupancy rating of rooms: 0,6458
+E07000068,Brentwood,4,Occupancy rating of rooms: -1,1381
+E07000068,Brentwood,5,Occupancy rating of rooms: -2 or less,184
+E07000069,Castle Point,-8,Does not apply,0
+E07000069,Castle Point,1,Occupancy rating of rooms: +2 or more,17284
+E07000069,Castle Point,2,Occupancy rating of rooms: +1,11043
+E07000069,Castle Point,3,Occupancy rating of rooms: 0,7221
+E07000069,Castle Point,4,Occupancy rating of rooms: -1,1597
+E07000069,Castle Point,5,Occupancy rating of rooms: -2 or less,242
+E07000070,Chelmsford,-8,Does not apply,0
+E07000070,Chelmsford,1,Occupancy rating of rooms: +2 or more,38692
+E07000070,Chelmsford,2,Occupancy rating of rooms: +1,18339
+E07000070,Chelmsford,3,Occupancy rating of rooms: 0,15364
+E07000070,Chelmsford,4,Occupancy rating of rooms: -1,2660
+E07000070,Chelmsford,5,Occupancy rating of rooms: -2 or less,346
+E07000071,Colchester,-8,Does not apply,0
+E07000071,Colchester,1,Occupancy rating of rooms: +2 or more,37544
+E07000071,Colchester,2,Occupancy rating of rooms: +1,21194
+E07000071,Colchester,3,Occupancy rating of rooms: 0,17169
+E07000071,Colchester,4,Occupancy rating of rooms: -1,3347
+E07000071,Colchester,5,Occupancy rating of rooms: -2 or less,456
+E07000072,Epping Forest,-8,Does not apply,0
+E07000072,Epping Forest,1,Occupancy rating of rooms: +2 or more,25400
+E07000072,Epping Forest,2,Occupancy rating of rooms: +1,13940
+E07000072,Epping Forest,3,Occupancy rating of rooms: 0,11809
+E07000072,Epping Forest,4,Occupancy rating of rooms: -1,2952
+E07000072,Epping Forest,5,Occupancy rating of rooms: -2 or less,455
+E07000073,Harlow,-8,Does not apply,0
+E07000073,Harlow,1,Occupancy rating of rooms: +2 or more,11449
+E07000073,Harlow,2,Occupancy rating of rooms: +1,10300
+E07000073,Harlow,3,Occupancy rating of rooms: 0,11778
+E07000073,Harlow,4,Occupancy rating of rooms: -1,3761
+E07000073,Harlow,5,Occupancy rating of rooms: -2 or less,567
+E07000074,Maldon,-8,Does not apply,0
+E07000074,Maldon,1,Occupancy rating of rooms: +2 or more,16323
+E07000074,Maldon,2,Occupancy rating of rooms: +1,6351
+E07000074,Maldon,3,Occupancy rating of rooms: 0,4416
+E07000074,Maldon,4,Occupancy rating of rooms: -1,708
+E07000074,Maldon,5,Occupancy rating of rooms: -2 or less,102
+E07000075,Rochford,-8,Does not apply,0
+E07000075,Rochford,1,Occupancy rating of rooms: +2 or more,18732
+E07000075,Rochford,2,Occupancy rating of rooms: +1,9235
+E07000075,Rochford,3,Occupancy rating of rooms: 0,6252
+E07000075,Rochford,4,Occupancy rating of rooms: -1,1202
+E07000075,Rochford,5,Occupancy rating of rooms: -2 or less,137
+E07000076,Tendring,-8,Does not apply,0
+E07000076,Tendring,1,Occupancy rating of rooms: +2 or more,29031
+E07000076,Tendring,2,Occupancy rating of rooms: +1,23129
+E07000076,Tendring,3,Occupancy rating of rooms: 0,12592
+E07000076,Tendring,4,Occupancy rating of rooms: -1,2354
+E07000076,Tendring,5,Occupancy rating of rooms: -2 or less,345
+E07000077,Uttlesford,-8,Does not apply,0
+E07000077,Uttlesford,1,Occupancy rating of rooms: +2 or more,21753
+E07000077,Uttlesford,2,Occupancy rating of rooms: +1,8358
+E07000077,Uttlesford,3,Occupancy rating of rooms: 0,5923
+E07000077,Uttlesford,4,Occupancy rating of rooms: -1,836
+E07000077,Uttlesford,5,Occupancy rating of rooms: -2 or less,87
+E07000078,Cheltenham,-8,Does not apply,0
+E07000078,Cheltenham,1,Occupancy rating of rooms: +2 or more,25914
+E07000078,Cheltenham,2,Occupancy rating of rooms: +1,13307
+E07000078,Cheltenham,3,Occupancy rating of rooms: 0,11630
+E07000078,Cheltenham,4,Occupancy rating of rooms: -1,1875
+E07000078,Cheltenham,5,Occupancy rating of rooms: -2 or less,174
+E07000079,Cotswold,-8,Does not apply,0
+E07000079,Cotswold,1,Occupancy rating of rooms: +2 or more,23967
+E07000079,Cotswold,2,Occupancy rating of rooms: +1,9410
+E07000079,Cotswold,3,Occupancy rating of rooms: 0,6334
+E07000079,Cotswold,4,Occupancy rating of rooms: -1,791
+E07000079,Cotswold,5,Occupancy rating of rooms: -2 or less,95
+E07000080,Forest of Dean,-8,Does not apply,0
+E07000080,Forest of Dean,1,Occupancy rating of rooms: +2 or more,21059
+E07000080,Forest of Dean,2,Occupancy rating of rooms: +1,9132
+E07000080,Forest of Dean,3,Occupancy rating of rooms: 0,5992
+E07000080,Forest of Dean,4,Occupancy rating of rooms: -1,907
+E07000080,Forest of Dean,5,Occupancy rating of rooms: -2 or less,128
+E07000081,Gloucester,-8,Does not apply,0
+E07000081,Gloucester,1,Occupancy rating of rooms: +2 or more,26690
+E07000081,Gloucester,2,Occupancy rating of rooms: +1,14791
+E07000081,Gloucester,3,Occupancy rating of rooms: 0,11322
+E07000081,Gloucester,4,Occupancy rating of rooms: -1,2244
+E07000081,Gloucester,5,Occupancy rating of rooms: -2 or less,360
+E07000082,Stroud,-8,Does not apply,0
+E07000082,Stroud,1,Occupancy rating of rooms: +2 or more,29476
+E07000082,Stroud,2,Occupancy rating of rooms: +1,12763
+E07000082,Stroud,3,Occupancy rating of rooms: 0,8638
+E07000082,Stroud,4,Occupancy rating of rooms: -1,1371
+E07000082,Stroud,5,Occupancy rating of rooms: -2 or less,130
+E07000083,Tewkesbury,-8,Does not apply,0
+E07000083,Tewkesbury,1,Occupancy rating of rooms: +2 or more,22867
+E07000083,Tewkesbury,2,Occupancy rating of rooms: +1,10163
+E07000083,Tewkesbury,3,Occupancy rating of rooms: 0,6788
+E07000083,Tewkesbury,4,Occupancy rating of rooms: -1,1006
+E07000083,Tewkesbury,5,Occupancy rating of rooms: -2 or less,107
+E07000084,Basingstoke and Deane,-8,Does not apply,0
+E07000084,Basingstoke and Deane,1,Occupancy rating of rooms: +2 or more,38075
+E07000084,Basingstoke and Deane,2,Occupancy rating of rooms: +1,20156
+E07000084,Basingstoke and Deane,3,Occupancy rating of rooms: 0,15383
+E07000084,Basingstoke and Deane,4,Occupancy rating of rooms: -1,2698
+E07000084,Basingstoke and Deane,5,Occupancy rating of rooms: -2 or less,332
+E07000085,East Hampshire,-8,Does not apply,0
+E07000085,East Hampshire,1,Occupancy rating of rooms: +2 or more,29363
+E07000085,East Hampshire,2,Occupancy rating of rooms: +1,12647
+E07000085,East Hampshire,3,Occupancy rating of rooms: 0,8883
+E07000085,East Hampshire,4,Occupancy rating of rooms: -1,1651
+E07000085,East Hampshire,5,Occupancy rating of rooms: -2 or less,176
+E07000086,Eastleigh,-8,Does not apply,0
+E07000086,Eastleigh,1,Occupancy rating of rooms: +2 or more,28472
+E07000086,Eastleigh,2,Occupancy rating of rooms: +1,15771
+E07000086,Eastleigh,3,Occupancy rating of rooms: 0,10877
+E07000086,Eastleigh,4,Occupancy rating of rooms: -1,1632
+E07000086,Eastleigh,5,Occupancy rating of rooms: -2 or less,172
+E07000087,Fareham,-8,Does not apply,0
+E07000087,Fareham,1,Occupancy rating of rooms: +2 or more,27651
+E07000087,Fareham,2,Occupancy rating of rooms: +1,12371
+E07000087,Fareham,3,Occupancy rating of rooms: 0,7411
+E07000087,Fareham,4,Occupancy rating of rooms: -1,1092
+E07000087,Fareham,5,Occupancy rating of rooms: -2 or less,113
+E07000088,Gosport,-8,Does not apply,0
+E07000088,Gosport,1,Occupancy rating of rooms: +2 or more,16843
+E07000088,Gosport,2,Occupancy rating of rooms: +1,9836
+E07000088,Gosport,3,Occupancy rating of rooms: 0,7765
+E07000088,Gosport,4,Occupancy rating of rooms: -1,1319
+E07000088,Gosport,5,Occupancy rating of rooms: -2 or less,159
+E07000089,Hart,-8,Does not apply,0
+E07000089,Hart,1,Occupancy rating of rooms: +2 or more,23133
+E07000089,Hart,2,Occupancy rating of rooms: +1,9403
+E07000089,Hart,3,Occupancy rating of rooms: 0,6439
+E07000089,Hart,4,Occupancy rating of rooms: -1,889
+E07000089,Hart,5,Occupancy rating of rooms: -2 or less,99
+E07000090,Havant,-8,Does not apply,0
+E07000090,Havant,1,Occupancy rating of rooms: +2 or more,25145
+E07000090,Havant,2,Occupancy rating of rooms: +1,14483
+E07000090,Havant,3,Occupancy rating of rooms: 0,11178
+E07000090,Havant,4,Occupancy rating of rooms: -1,2454
+E07000090,Havant,5,Occupancy rating of rooms: -2 or less,329
+E07000091,New Forest,-8,Does not apply,0
+E07000091,New Forest,1,Occupancy rating of rooms: +2 or more,42328
+E07000091,New Forest,2,Occupancy rating of rooms: +1,20179
+E07000091,New Forest,3,Occupancy rating of rooms: 0,12347
+E07000091,New Forest,4,Occupancy rating of rooms: -1,2452
+E07000091,New Forest,5,Occupancy rating of rooms: -2 or less,260
+E07000092,Rushmoor,-8,Does not apply,0
+E07000092,Rushmoor,1,Occupancy rating of rooms: +2 or more,15645
+E07000092,Rushmoor,2,Occupancy rating of rooms: +1,10395
+E07000092,Rushmoor,3,Occupancy rating of rooms: 0,10420
+E07000092,Rushmoor,4,Occupancy rating of rooms: -1,2382
+E07000092,Rushmoor,5,Occupancy rating of rooms: -2 or less,459
+E07000093,Test Valley,-8,Does not apply,0
+E07000093,Test Valley,1,Occupancy rating of rooms: +2 or more,30154
+E07000093,Test Valley,2,Occupancy rating of rooms: +1,13803
+E07000093,Test Valley,3,Occupancy rating of rooms: 0,9200
+E07000093,Test Valley,4,Occupancy rating of rooms: -1,1380
+E07000093,Test Valley,5,Occupancy rating of rooms: -2 or less,170
+E07000094,Winchester,-8,Does not apply,0
+E07000094,Winchester,1,Occupancy rating of rooms: +2 or more,27556
+E07000094,Winchester,2,Occupancy rating of rooms: +1,12579
+E07000094,Winchester,3,Occupancy rating of rooms: 0,9731
+E07000094,Winchester,4,Occupancy rating of rooms: -1,1688
+E07000094,Winchester,5,Occupancy rating of rooms: -2 or less,161
+E07000095,Broxbourne,-8,Does not apply,0
+E07000095,Broxbourne,1,Occupancy rating of rooms: +2 or more,16156
+E07000095,Broxbourne,2,Occupancy rating of rooms: +1,10328
+E07000095,Broxbourne,3,Occupancy rating of rooms: 0,9867
+E07000095,Broxbourne,4,Occupancy rating of rooms: -1,3024
+E07000095,Broxbourne,5,Occupancy rating of rooms: -2 or less,475
+E07000096,Dacorum,-8,Does not apply,0
+E07000096,Dacorum,1,Occupancy rating of rooms: +2 or more,28769
+E07000096,Dacorum,2,Occupancy rating of rooms: +1,15930
+E07000096,Dacorum,3,Occupancy rating of rooms: 0,15658
+E07000096,Dacorum,4,Occupancy rating of rooms: -1,2743
+E07000096,Dacorum,5,Occupancy rating of rooms: -2 or less,312
+E07000098,Hertsmere,-8,Does not apply,0
+E07000098,Hertsmere,1,Occupancy rating of rooms: +2 or more,17853
+E07000098,Hertsmere,2,Occupancy rating of rooms: +1,11147
+E07000098,Hertsmere,3,Occupancy rating of rooms: 0,10438
+E07000098,Hertsmere,4,Occupancy rating of rooms: -1,2776
+E07000098,Hertsmere,5,Occupancy rating of rooms: -2 or less,468
+E07000099,North Hertfordshire,-8,Does not apply,0
+E07000099,North Hertfordshire,1,Occupancy rating of rooms: +2 or more,27324
+E07000099,North Hertfordshire,2,Occupancy rating of rooms: +1,15198
+E07000099,North Hertfordshire,3,Occupancy rating of rooms: 0,12150
+E07000099,North Hertfordshire,4,Occupancy rating of rooms: -1,1859
+E07000099,North Hertfordshire,5,Occupancy rating of rooms: -2 or less,200
+E07000102,Three Rivers,-8,Does not apply,0
+E07000102,Three Rivers,1,Occupancy rating of rooms: +2 or more,17995
+E07000102,Three Rivers,2,Occupancy rating of rooms: +1,9150
+E07000102,Three Rivers,3,Occupancy rating of rooms: 0,7595
+E07000102,Three Rivers,4,Occupancy rating of rooms: -1,1861
+E07000102,Three Rivers,5,Occupancy rating of rooms: -2 or less,257
+E07000103,Watford,-8,Does not apply,0
+E07000103,Watford,1,Occupancy rating of rooms: +2 or more,14645
+E07000103,Watford,2,Occupancy rating of rooms: +1,9251
+E07000103,Watford,3,Occupancy rating of rooms: 0,11072
+E07000103,Watford,4,Occupancy rating of rooms: -1,3889
+E07000103,Watford,5,Occupancy rating of rooms: -2 or less,769
+E07000105,Ashford,-8,Does not apply,0
+E07000105,Ashford,1,Occupancy rating of rooms: +2 or more,26294
+E07000105,Ashford,2,Occupancy rating of rooms: +1,14260
+E07000105,Ashford,3,Occupancy rating of rooms: 0,10568
+E07000105,Ashford,4,Occupancy rating of rooms: -1,2069
+E07000105,Ashford,5,Occupancy rating of rooms: -2 or less,392
+E07000106,Canterbury,-8,Does not apply,0
+E07000106,Canterbury,1,Occupancy rating of rooms: +2 or more,28702
+E07000106,Canterbury,2,Occupancy rating of rooms: +1,18396
+E07000106,Canterbury,3,Occupancy rating of rooms: 0,12964
+E07000106,Canterbury,4,Occupancy rating of rooms: -1,3297
+E07000106,Canterbury,5,Occupancy rating of rooms: -2 or less,433
+E07000107,Dartford,-8,Does not apply,0
+E07000107,Dartford,1,Occupancy rating of rooms: +2 or more,17916
+E07000107,Dartford,2,Occupancy rating of rooms: +1,13100
+E07000107,Dartford,3,Occupancy rating of rooms: 0,11277
+E07000107,Dartford,4,Occupancy rating of rooms: -1,2922
+E07000107,Dartford,5,Occupancy rating of rooms: -2 or less,479
+E07000108,Dover,-8,Does not apply,0
+E07000108,Dover,1,Occupancy rating of rooms: +2 or more,24454
+E07000108,Dover,2,Occupancy rating of rooms: +1,14167
+E07000108,Dover,3,Occupancy rating of rooms: 0,9643
+E07000108,Dover,4,Occupancy rating of rooms: -1,1957
+E07000108,Dover,5,Occupancy rating of rooms: -2 or less,328
+E07000109,Gravesham,-8,Does not apply,0
+E07000109,Gravesham,1,Occupancy rating of rooms: +2 or more,17766
+E07000109,Gravesham,2,Occupancy rating of rooms: +1,10588
+E07000109,Gravesham,3,Occupancy rating of rooms: 0,10071
+E07000109,Gravesham,4,Occupancy rating of rooms: -1,2715
+E07000109,Gravesham,5,Occupancy rating of rooms: -2 or less,585
+E07000110,Maidstone,-8,Does not apply,0
+E07000110,Maidstone,1,Occupancy rating of rooms: +2 or more,35048
+E07000110,Maidstone,2,Occupancy rating of rooms: +1,18649
+E07000110,Maidstone,3,Occupancy rating of rooms: 0,14106
+E07000110,Maidstone,4,Occupancy rating of rooms: -1,2948
+E07000110,Maidstone,5,Occupancy rating of rooms: -2 or less,457
+E07000111,Sevenoaks,-8,Does not apply,0
+E07000111,Sevenoaks,1,Occupancy rating of rooms: +2 or more,26781
+E07000111,Sevenoaks,2,Occupancy rating of rooms: +1,11509
+E07000111,Sevenoaks,3,Occupancy rating of rooms: 0,8840
+E07000111,Sevenoaks,4,Occupancy rating of rooms: -1,1659
+E07000111,Sevenoaks,5,Occupancy rating of rooms: -2 or less,224
+E07000112,Folkestone and Hythe,-8,Does not apply,0
+E07000112,Folkestone and Hythe,1,Occupancy rating of rooms: +2 or more,22492
+E07000112,Folkestone and Hythe,2,Occupancy rating of rooms: +1,13523
+E07000112,Folkestone and Hythe,3,Occupancy rating of rooms: 0,9893
+E07000112,Folkestone and Hythe,4,Occupancy rating of rooms: -1,2074
+E07000112,Folkestone and Hythe,5,Occupancy rating of rooms: -2 or less,356
+E07000113,Swale,-8,Does not apply,0
+E07000113,Swale,1,Occupancy rating of rooms: +2 or more,27584
+E07000113,Swale,2,Occupancy rating of rooms: +1,17361
+E07000113,Swale,3,Occupancy rating of rooms: 0,12138
+E07000113,Swale,4,Occupancy rating of rooms: -1,2843
+E07000113,Swale,5,Occupancy rating of rooms: -2 or less,567
+E07000114,Thanet,-8,Does not apply,0
+E07000114,Thanet,1,Occupancy rating of rooms: +2 or more,25158
+E07000114,Thanet,2,Occupancy rating of rooms: +1,18874
+E07000114,Thanet,3,Occupancy rating of rooms: 0,14499
+E07000114,Thanet,4,Occupancy rating of rooms: -1,3138
+E07000114,Thanet,5,Occupancy rating of rooms: -2 or less,531
+E07000115,Tonbridge and Malling,-8,Does not apply,0
+E07000115,Tonbridge and Malling,1,Occupancy rating of rooms: +2 or more,28190
+E07000115,Tonbridge and Malling,2,Occupancy rating of rooms: +1,13720
+E07000115,Tonbridge and Malling,3,Occupancy rating of rooms: 0,9737
+E07000115,Tonbridge and Malling,4,Occupancy rating of rooms: -1,1712
+E07000115,Tonbridge and Malling,5,Occupancy rating of rooms: -2 or less,213
+E07000116,Tunbridge Wells,-8,Does not apply,0
+E07000116,Tunbridge Wells,1,Occupancy rating of rooms: +2 or more,23856
+E07000116,Tunbridge Wells,2,Occupancy rating of rooms: +1,11186
+E07000116,Tunbridge Wells,3,Occupancy rating of rooms: 0,10316
+E07000116,Tunbridge Wells,4,Occupancy rating of rooms: -1,2587
+E07000116,Tunbridge Wells,5,Occupancy rating of rooms: -2 or less,278
+E07000117,Burnley,-8,Does not apply,0
+E07000117,Burnley,1,Occupancy rating of rooms: +2 or more,14258
+E07000117,Burnley,2,Occupancy rating of rooms: +1,13586
+E07000117,Burnley,3,Occupancy rating of rooms: 0,9210
+E07000117,Burnley,4,Occupancy rating of rooms: -1,2140
+E07000117,Burnley,5,Occupancy rating of rooms: -2 or less,678
+E07000118,Chorley,-8,Does not apply,0
+E07000118,Chorley,1,Occupancy rating of rooms: +2 or more,26214
+E07000118,Chorley,2,Occupancy rating of rooms: +1,14849
+E07000118,Chorley,3,Occupancy rating of rooms: 0,7784
+E07000118,Chorley,4,Occupancy rating of rooms: -1,1129
+E07000118,Chorley,5,Occupancy rating of rooms: -2 or less,156
+E07000119,Fylde,-8,Does not apply,0
+E07000119,Fylde,1,Occupancy rating of rooms: +2 or more,20632
+E07000119,Fylde,2,Occupancy rating of rooms: +1,10040
+E07000119,Fylde,3,Occupancy rating of rooms: 0,5960
+E07000119,Fylde,4,Occupancy rating of rooms: -1,885
+E07000119,Fylde,5,Occupancy rating of rooms: -2 or less,89
+E07000120,Hyndburn,-8,Does not apply,0
+E07000120,Hyndburn,1,Occupancy rating of rooms: +2 or more,12216
+E07000120,Hyndburn,2,Occupancy rating of rooms: +1,12050
+E07000120,Hyndburn,3,Occupancy rating of rooms: 0,8033
+E07000120,Hyndburn,4,Occupancy rating of rooms: -1,1934
+E07000120,Hyndburn,5,Occupancy rating of rooms: -2 or less,557
+E07000121,Lancaster,-8,Does not apply,0
+E07000121,Lancaster,1,Occupancy rating of rooms: +2 or more,28919
+E07000121,Lancaster,2,Occupancy rating of rooms: +1,17728
+E07000121,Lancaster,3,Occupancy rating of rooms: 0,11119
+E07000121,Lancaster,4,Occupancy rating of rooms: -1,1975
+E07000121,Lancaster,5,Occupancy rating of rooms: -2 or less,239
+E07000122,Pendle,-8,Does not apply,0
+E07000122,Pendle,1,Occupancy rating of rooms: +2 or more,14272
+E07000122,Pendle,2,Occupancy rating of rooms: +1,12513
+E07000122,Pendle,3,Occupancy rating of rooms: 0,7944
+E07000122,Pendle,4,Occupancy rating of rooms: -1,2221
+E07000122,Pendle,5,Occupancy rating of rooms: -2 or less,1116
+E07000123,Preston,-8,Does not apply,0
+E07000123,Preston,1,Occupancy rating of rooms: +2 or more,25216
+E07000123,Preston,2,Occupancy rating of rooms: +1,17508
+E07000123,Preston,3,Occupancy rating of rooms: 0,13170
+E07000123,Preston,4,Occupancy rating of rooms: -1,3007
+E07000123,Preston,5,Occupancy rating of rooms: -2 or less,704
+E07000124,Ribble Valley,-8,Does not apply,0
+E07000124,Ribble Valley,1,Occupancy rating of rooms: +2 or more,14612
+E07000124,Ribble Valley,2,Occupancy rating of rooms: +1,7504
+E07000124,Ribble Valley,3,Occupancy rating of rooms: 0,3826
+E07000124,Ribble Valley,4,Occupancy rating of rooms: -1,730
+E07000124,Ribble Valley,5,Occupancy rating of rooms: -2 or less,75
+E07000125,Rossendale,-8,Does not apply,0
+E07000125,Rossendale,1,Occupancy rating of rooms: +2 or more,12126
+E07000125,Rossendale,2,Occupancy rating of rooms: +1,10409
+E07000125,Rossendale,3,Occupancy rating of rooms: 0,6426
+E07000125,Rossendale,4,Occupancy rating of rooms: -1,1319
+E07000125,Rossendale,5,Occupancy rating of rooms: -2 or less,281
+E07000126,South Ribble,-8,Does not apply,0
+E07000126,South Ribble,1,Occupancy rating of rooms: +2 or more,26358
+E07000126,South Ribble,2,Occupancy rating of rooms: +1,14213
+E07000126,South Ribble,3,Occupancy rating of rooms: 0,6840
+E07000126,South Ribble,4,Occupancy rating of rooms: -1,1052
+E07000126,South Ribble,5,Occupancy rating of rooms: -2 or less,122
+E07000127,West Lancashire,-8,Does not apply,0
+E07000127,West Lancashire,1,Occupancy rating of rooms: +2 or more,27124
+E07000127,West Lancashire,2,Occupancy rating of rooms: +1,12624
+E07000127,West Lancashire,3,Occupancy rating of rooms: 0,7363
+E07000127,West Lancashire,4,Occupancy rating of rooms: -1,1268
+E07000127,West Lancashire,5,Occupancy rating of rooms: -2 or less,154
+E07000128,Wyre,-8,Does not apply,0
+E07000128,Wyre,1,Occupancy rating of rooms: +2 or more,27253
+E07000128,Wyre,2,Occupancy rating of rooms: +1,15111
+E07000128,Wyre,3,Occupancy rating of rooms: 0,7260
+E07000128,Wyre,4,Occupancy rating of rooms: -1,1021
+E07000128,Wyre,5,Occupancy rating of rooms: -2 or less,124
+E07000129,Blaby,-8,Does not apply,0
+E07000129,Blaby,1,Occupancy rating of rooms: +2 or more,24288
+E07000129,Blaby,2,Occupancy rating of rooms: +1,11254
+E07000129,Blaby,3,Occupancy rating of rooms: 0,5988
+E07000129,Blaby,4,Occupancy rating of rooms: -1,923
+E07000129,Blaby,5,Occupancy rating of rooms: -2 or less,122
+E07000130,Charnwood,-8,Does not apply,0
+E07000130,Charnwood,1,Occupancy rating of rooms: +2 or more,39903
+E07000130,Charnwood,2,Occupancy rating of rooms: +1,18616
+E07000130,Charnwood,3,Occupancy rating of rooms: 0,12544
+E07000130,Charnwood,4,Occupancy rating of rooms: -1,2316
+E07000130,Charnwood,5,Occupancy rating of rooms: -2 or less,406
+E07000131,Harborough,-8,Does not apply,0
+E07000131,Harborough,1,Occupancy rating of rooms: +2 or more,24940
+E07000131,Harborough,2,Occupancy rating of rooms: +1,9614
+E07000131,Harborough,3,Occupancy rating of rooms: 0,5011
+E07000131,Harborough,4,Occupancy rating of rooms: -1,719
+E07000131,Harborough,5,Occupancy rating of rooms: -2 or less,131
+E07000132,Hinckley and Bosworth,-8,Does not apply,0
+E07000132,Hinckley and Bosworth,1,Occupancy rating of rooms: +2 or more,27234
+E07000132,Hinckley and Bosworth,2,Occupancy rating of rooms: +1,14014
+E07000132,Hinckley and Bosworth,3,Occupancy rating of rooms: 0,7043
+E07000132,Hinckley and Bosworth,4,Occupancy rating of rooms: -1,1023
+E07000132,Hinckley and Bosworth,5,Occupancy rating of rooms: -2 or less,132
+E07000133,Melton,-8,Does not apply,0
+E07000133,Melton,1,Occupancy rating of rooms: +2 or more,13722
+E07000133,Melton,2,Occupancy rating of rooms: +1,5400
+E07000133,Melton,3,Occupancy rating of rooms: 0,2966
+E07000133,Melton,4,Occupancy rating of rooms: -1,449
+E07000133,Melton,5,Occupancy rating of rooms: -2 or less,62
+E07000134,North West Leicestershire,-8,Does not apply,0
+E07000134,North West Leicestershire,1,Occupancy rating of rooms: +2 or more,26504
+E07000134,North West Leicestershire,2,Occupancy rating of rooms: +1,11361
+E07000134,North West Leicestershire,3,Occupancy rating of rooms: 0,6060
+E07000134,North West Leicestershire,4,Occupancy rating of rooms: -1,917
+E07000134,North West Leicestershire,5,Occupancy rating of rooms: -2 or less,133
+E07000135,Oadby and Wigston,-8,Does not apply,0
+E07000135,Oadby and Wigston,1,Occupancy rating of rooms: +2 or more,11949
+E07000135,Oadby and Wigston,2,Occupancy rating of rooms: +1,6452
+E07000135,Oadby and Wigston,3,Occupancy rating of rooms: 0,3368
+E07000135,Oadby and Wigston,4,Occupancy rating of rooms: -1,710
+E07000135,Oadby and Wigston,5,Occupancy rating of rooms: -2 or less,138
+E07000136,Boston,-8,Does not apply,0
+E07000136,Boston,1,Occupancy rating of rooms: +2 or more,13696
+E07000136,Boston,2,Occupancy rating of rooms: +1,8335
+E07000136,Boston,3,Occupancy rating of rooms: 0,5891
+E07000136,Boston,4,Occupancy rating of rooms: -1,1270
+E07000136,Boston,5,Occupancy rating of rooms: -2 or less,211
+E07000137,East Lindsey,-8,Does not apply,0
+E07000137,East Lindsey,1,Occupancy rating of rooms: +2 or more,31483
+E07000137,East Lindsey,2,Occupancy rating of rooms: +1,21206
+E07000137,East Lindsey,3,Occupancy rating of rooms: 0,9836
+E07000137,East Lindsey,4,Occupancy rating of rooms: -1,1989
+E07000137,East Lindsey,5,Occupancy rating of rooms: -2 or less,240
+E07000138,Lincoln,-8,Does not apply,0
+E07000138,Lincoln,1,Occupancy rating of rooms: +2 or more,17749
+E07000138,Lincoln,2,Occupancy rating of rooms: +1,11880
+E07000138,Lincoln,3,Occupancy rating of rooms: 0,10327
+E07000138,Lincoln,4,Occupancy rating of rooms: -1,2162
+E07000138,Lincoln,5,Occupancy rating of rooms: -2 or less,389
+E07000139,North Kesteven,-8,Does not apply,0
+E07000139,North Kesteven,1,Occupancy rating of rooms: +2 or more,30127
+E07000139,North Kesteven,2,Occupancy rating of rooms: +1,14274
+E07000139,North Kesteven,3,Occupancy rating of rooms: 0,5663
+E07000139,North Kesteven,4,Occupancy rating of rooms: -1,829
+E07000139,North Kesteven,5,Occupancy rating of rooms: -2 or less,96
+E07000140,South Holland,-8,Does not apply,0
+E07000140,South Holland,1,Occupancy rating of rooms: +2 or more,21559
+E07000140,South Holland,2,Occupancy rating of rooms: +1,11757
+E07000140,South Holland,3,Occupancy rating of rooms: 0,6010
+E07000140,South Holland,4,Occupancy rating of rooms: -1,1189
+E07000140,South Holland,5,Occupancy rating of rooms: -2 or less,188
+E07000141,South Kesteven,-8,Does not apply,0
+E07000141,South Kesteven,1,Occupancy rating of rooms: +2 or more,36833
+E07000141,South Kesteven,2,Occupancy rating of rooms: +1,16503
+E07000141,South Kesteven,3,Occupancy rating of rooms: 0,8085
+E07000141,South Kesteven,4,Occupancy rating of rooms: -1,1284
+E07000141,South Kesteven,5,Occupancy rating of rooms: -2 or less,144
+E07000142,West Lindsey,-8,Does not apply,0
+E07000142,West Lindsey,1,Occupancy rating of rooms: +2 or more,25552
+E07000142,West Lindsey,2,Occupancy rating of rooms: +1,11175
+E07000142,West Lindsey,3,Occupancy rating of rooms: 0,4752
+E07000142,West Lindsey,4,Occupancy rating of rooms: -1,757
+E07000142,West Lindsey,5,Occupancy rating of rooms: -2 or less,112
+E07000143,Breckland,-8,Does not apply,0
+E07000143,Breckland,1,Occupancy rating of rooms: +2 or more,31608
+E07000143,Breckland,2,Occupancy rating of rooms: +1,16610
+E07000143,Breckland,3,Occupancy rating of rooms: 0,10137
+E07000143,Breckland,4,Occupancy rating of rooms: -1,1723
+E07000143,Breckland,5,Occupancy rating of rooms: -2 or less,281
+E07000144,Broadland,-8,Does not apply,0
+E07000144,Broadland,1,Occupancy rating of rooms: +2 or more,33788
+E07000144,Broadland,2,Occupancy rating of rooms: +1,14798
+E07000144,Broadland,3,Occupancy rating of rooms: 0,8020
+E07000144,Broadland,4,Occupancy rating of rooms: -1,1035
+E07000144,Broadland,5,Occupancy rating of rooms: -2 or less,119
+E07000145,Great Yarmouth,-8,Does not apply,0
+E07000145,Great Yarmouth,1,Occupancy rating of rooms: +2 or more,21506
+E07000145,Great Yarmouth,2,Occupancy rating of rooms: +1,12118
+E07000145,Great Yarmouth,3,Occupancy rating of rooms: 0,8796
+E07000145,Great Yarmouth,4,Occupancy rating of rooms: -1,1861
+E07000145,Great Yarmouth,5,Occupancy rating of rooms: -2 or less,263
+E07000146,King's Lynn and West Norfolk,-8,Does not apply,0
+E07000146,King's Lynn and West Norfolk,1,Occupancy rating of rooms: +2 or more,34727
+E07000146,King's Lynn and West Norfolk,2,Occupancy rating of rooms: +1,19286
+E07000146,King's Lynn and West Norfolk,3,Occupancy rating of rooms: 0,11157
+E07000146,King's Lynn and West Norfolk,4,Occupancy rating of rooms: -1,2004
+E07000146,King's Lynn and West Norfolk,5,Occupancy rating of rooms: -2 or less,287
+E07000147,North Norfolk,-8,Does not apply,0
+E07000147,North Norfolk,1,Occupancy rating of rooms: +2 or more,26073
+E07000147,North Norfolk,2,Occupancy rating of rooms: +1,13794
+E07000147,North Norfolk,3,Occupancy rating of rooms: 0,7145
+E07000147,North Norfolk,4,Occupancy rating of rooms: -1,1210
+E07000147,North Norfolk,5,Occupancy rating of rooms: -2 or less,150
+E07000148,Norwich,-8,Does not apply,0
+E07000148,Norwich,1,Occupancy rating of rooms: +2 or more,25275
+E07000148,Norwich,2,Occupancy rating of rooms: +1,16555
+E07000148,Norwich,3,Occupancy rating of rooms: 0,18795
+E07000148,Norwich,4,Occupancy rating of rooms: -1,3501
+E07000148,Norwich,5,Occupancy rating of rooms: -2 or less,334
+E07000149,South Norfolk,-8,Does not apply,0
+E07000149,South Norfolk,1,Occupancy rating of rooms: +2 or more,35504
+E07000149,South Norfolk,2,Occupancy rating of rooms: +1,15734
+E07000149,South Norfolk,3,Occupancy rating of rooms: 0,8789
+E07000149,South Norfolk,4,Occupancy rating of rooms: -1,1203
+E07000149,South Norfolk,5,Occupancy rating of rooms: -2 or less,151
+E07000163,Craven,-8,Does not apply,0
+E07000163,Craven,1,Occupancy rating of rooms: +2 or more,14103
+E07000163,Craven,2,Occupancy rating of rooms: +1,7561
+E07000163,Craven,3,Occupancy rating of rooms: 0,3825
+E07000163,Craven,4,Occupancy rating of rooms: -1,522
+E07000163,Craven,5,Occupancy rating of rooms: -2 or less,58
+E07000164,Hambleton,-8,Does not apply,0
+E07000164,Hambleton,1,Occupancy rating of rooms: +2 or more,24774
+E07000164,Hambleton,2,Occupancy rating of rooms: +1,10098
+E07000164,Hambleton,3,Occupancy rating of rooms: 0,5299
+E07000164,Hambleton,4,Occupancy rating of rooms: -1,579
+E07000164,Hambleton,5,Occupancy rating of rooms: -2 or less,51
+E07000165,Harrogate,-8,Does not apply,0
+E07000165,Harrogate,1,Occupancy rating of rooms: +2 or more,39887
+E07000165,Harrogate,2,Occupancy rating of rooms: +1,17869
+E07000165,Harrogate,3,Occupancy rating of rooms: 0,11660
+E07000165,Harrogate,4,Occupancy rating of rooms: -1,1614
+E07000165,Harrogate,5,Occupancy rating of rooms: -2 or less,139
+E07000166,Richmondshire,-8,Does not apply,0
+E07000166,Richmondshire,1,Occupancy rating of rooms: +2 or more,11863
+E07000166,Richmondshire,2,Occupancy rating of rooms: +1,5759
+E07000166,Richmondshire,3,Occupancy rating of rooms: 0,2836
+E07000166,Richmondshire,4,Occupancy rating of rooms: -1,437
+E07000166,Richmondshire,5,Occupancy rating of rooms: -2 or less,49
+E07000167,Ryedale,-8,Does not apply,0
+E07000167,Ryedale,1,Occupancy rating of rooms: +2 or more,13878
+E07000167,Ryedale,2,Occupancy rating of rooms: +1,6967
+E07000167,Ryedale,3,Occupancy rating of rooms: 0,3331
+E07000167,Ryedale,4,Occupancy rating of rooms: -1,485
+E07000167,Ryedale,5,Occupancy rating of rooms: -2 or less,53
+E07000168,Scarborough,-8,Does not apply,0
+E07000168,Scarborough,1,Occupancy rating of rooms: +2 or more,23531
+E07000168,Scarborough,2,Occupancy rating of rooms: +1,16137
+E07000168,Scarborough,3,Occupancy rating of rooms: 0,9832
+E07000168,Scarborough,4,Occupancy rating of rooms: -1,1472
+E07000168,Scarborough,5,Occupancy rating of rooms: -2 or less,150
+E07000169,Selby,-8,Does not apply,0
+E07000169,Selby,1,Occupancy rating of rooms: +2 or more,22442
+E07000169,Selby,2,Occupancy rating of rooms: +1,10703
+E07000169,Selby,3,Occupancy rating of rooms: 0,5483
+E07000169,Selby,4,Occupancy rating of rooms: -1,850
+E07000169,Selby,5,Occupancy rating of rooms: -2 or less,82
+E07000170,Ashfield,-8,Does not apply,0
+E07000170,Ashfield,1,Occupancy rating of rooms: +2 or more,26488
+E07000170,Ashfield,2,Occupancy rating of rooms: +1,17123
+E07000170,Ashfield,3,Occupancy rating of rooms: 0,8946
+E07000170,Ashfield,4,Occupancy rating of rooms: -1,1699
+E07000170,Ashfield,5,Occupancy rating of rooms: -2 or less,252
+E07000171,Bassetlaw,-8,Does not apply,0
+E07000171,Bassetlaw,1,Occupancy rating of rooms: +2 or more,28977
+E07000171,Bassetlaw,2,Occupancy rating of rooms: +1,13882
+E07000171,Bassetlaw,3,Occupancy rating of rooms: 0,7230
+E07000171,Bassetlaw,4,Occupancy rating of rooms: -1,1196
+E07000171,Bassetlaw,5,Occupancy rating of rooms: -2 or less,173
+E07000172,Broxtowe,-8,Does not apply,0
+E07000172,Broxtowe,1,Occupancy rating of rooms: +2 or more,26229
+E07000172,Broxtowe,2,Occupancy rating of rooms: +1,13354
+E07000172,Broxtowe,3,Occupancy rating of rooms: 0,7412
+E07000172,Broxtowe,4,Occupancy rating of rooms: -1,1226
+E07000172,Broxtowe,5,Occupancy rating of rooms: -2 or less,141
+E07000173,Gedling,-8,Does not apply,0
+E07000173,Gedling,1,Occupancy rating of rooms: +2 or more,28200
+E07000173,Gedling,2,Occupancy rating of rooms: +1,14470
+E07000173,Gedling,3,Occupancy rating of rooms: 0,7651
+E07000173,Gedling,4,Occupancy rating of rooms: -1,1056
+E07000173,Gedling,5,Occupancy rating of rooms: -2 or less,174
+E07000174,Mansfield,-8,Does not apply,0
+E07000174,Mansfield,1,Occupancy rating of rooms: +2 or more,24616
+E07000174,Mansfield,2,Occupancy rating of rooms: +1,14235
+E07000174,Mansfield,3,Occupancy rating of rooms: 0,7669
+E07000174,Mansfield,4,Occupancy rating of rooms: -1,1257
+E07000174,Mansfield,5,Occupancy rating of rooms: -2 or less,253
+E07000175,Newark and Sherwood,-8,Does not apply,0
+E07000175,Newark and Sherwood,1,Occupancy rating of rooms: +2 or more,29074
+E07000175,Newark and Sherwood,2,Occupancy rating of rooms: +1,15005
+E07000175,Newark and Sherwood,3,Occupancy rating of rooms: 0,7787
+E07000175,Newark and Sherwood,4,Occupancy rating of rooms: -1,1250
+E07000175,Newark and Sherwood,5,Occupancy rating of rooms: -2 or less,215
+E07000176,Rushcliffe,-8,Does not apply,0
+E07000176,Rushcliffe,1,Occupancy rating of rooms: +2 or more,30402
+E07000176,Rushcliffe,2,Occupancy rating of rooms: +1,12631
+E07000176,Rushcliffe,3,Occupancy rating of rooms: 0,5894
+E07000176,Rushcliffe,4,Occupancy rating of rooms: -1,857
+E07000176,Rushcliffe,5,Occupancy rating of rooms: -2 or less,98
+E07000177,Cherwell,-8,Does not apply,0
+E07000177,Cherwell,1,Occupancy rating of rooms: +2 or more,32979
+E07000177,Cherwell,2,Occupancy rating of rooms: +1,16576
+E07000177,Cherwell,3,Occupancy rating of rooms: 0,13419
+E07000177,Cherwell,4,Occupancy rating of rooms: -1,2521
+E07000177,Cherwell,5,Occupancy rating of rooms: -2 or less,399
+E07000178,Oxford,-8,Does not apply,0
+E07000178,Oxford,1,Occupancy rating of rooms: +2 or more,21721
+E07000178,Oxford,2,Occupancy rating of rooms: +1,13348
+E07000178,Oxford,3,Occupancy rating of rooms: 0,14526
+E07000178,Oxford,4,Occupancy rating of rooms: -1,4563
+E07000178,Oxford,5,Occupancy rating of rooms: -2 or less,1078
+E07000179,South Oxfordshire,-8,Does not apply,0
+E07000179,South Oxfordshire,1,Occupancy rating of rooms: +2 or more,33500
+E07000179,South Oxfordshire,2,Occupancy rating of rooms: +1,16171
+E07000179,South Oxfordshire,3,Occupancy rating of rooms: 0,10057
+E07000179,South Oxfordshire,4,Occupancy rating of rooms: -1,1586
+E07000179,South Oxfordshire,5,Occupancy rating of rooms: -2 or less,184
+E07000180,Vale of White Horse,-8,Does not apply,0
+E07000180,Vale of White Horse,1,Occupancy rating of rooms: +2 or more,32885
+E07000180,Vale of White Horse,2,Occupancy rating of rooms: +1,13366
+E07000180,Vale of White Horse,3,Occupancy rating of rooms: 0,9710
+E07000180,Vale of White Horse,4,Occupancy rating of rooms: -1,1386
+E07000180,Vale of White Horse,5,Occupancy rating of rooms: -2 or less,151
+E07000181,West Oxfordshire,-8,Does not apply,0
+E07000181,West Oxfordshire,1,Occupancy rating of rooms: +2 or more,25862
+E07000181,West Oxfordshire,2,Occupancy rating of rooms: +1,12643
+E07000181,West Oxfordshire,3,Occupancy rating of rooms: 0,7960
+E07000181,West Oxfordshire,4,Occupancy rating of rooms: -1,1336
+E07000181,West Oxfordshire,5,Occupancy rating of rooms: -2 or less,180
+E07000187,Mendip,-8,Does not apply,0
+E07000187,Mendip,1,Occupancy rating of rooms: +2 or more,26866
+E07000187,Mendip,2,Occupancy rating of rooms: +1,12858
+E07000187,Mendip,3,Occupancy rating of rooms: 0,9057
+E07000187,Mendip,4,Occupancy rating of rooms: -1,1352
+E07000187,Mendip,5,Occupancy rating of rooms: -2 or less,161
+E07000188,Sedgemoor,-8,Does not apply,0
+E07000188,Sedgemoor,1,Occupancy rating of rooms: +2 or more,28725
+E07000188,Sedgemoor,2,Occupancy rating of rooms: +1,14015
+E07000188,Sedgemoor,3,Occupancy rating of rooms: 0,9506
+E07000188,Sedgemoor,4,Occupancy rating of rooms: -1,1422
+E07000188,Sedgemoor,5,Occupancy rating of rooms: -2 or less,236
+E07000189,South Somerset,-8,Does not apply,0
+E07000189,South Somerset,1,Occupancy rating of rooms: +2 or more,40525
+E07000189,South Somerset,2,Occupancy rating of rooms: +1,19841
+E07000189,South Somerset,3,Occupancy rating of rooms: 0,13263
+E07000189,South Somerset,4,Occupancy rating of rooms: -1,2048
+E07000189,South Somerset,5,Occupancy rating of rooms: -2 or less,258
+E07000192,Cannock Chase,-8,Does not apply,0
+E07000192,Cannock Chase,1,Occupancy rating of rooms: +2 or more,21033
+E07000192,Cannock Chase,2,Occupancy rating of rooms: +1,12149
+E07000192,Cannock Chase,3,Occupancy rating of rooms: 0,8920
+E07000192,Cannock Chase,4,Occupancy rating of rooms: -1,1191
+E07000192,Cannock Chase,5,Occupancy rating of rooms: -2 or less,164
+E07000193,East Staffordshire,-8,Does not apply,0
+E07000193,East Staffordshire,1,Occupancy rating of rooms: +2 or more,27812
+E07000193,East Staffordshire,2,Occupancy rating of rooms: +1,13301
+E07000193,East Staffordshire,3,Occupancy rating of rooms: 0,8385
+E07000193,East Staffordshire,4,Occupancy rating of rooms: -1,1497
+E07000193,East Staffordshire,5,Occupancy rating of rooms: -2 or less,299
+E07000194,Lichfield,-8,Does not apply,0
+E07000194,Lichfield,1,Occupancy rating of rooms: +2 or more,26032
+E07000194,Lichfield,2,Occupancy rating of rooms: +1,11534
+E07000194,Lichfield,3,Occupancy rating of rooms: 0,6932
+E07000194,Lichfield,4,Occupancy rating of rooms: -1,1005
+E07000194,Lichfield,5,Occupancy rating of rooms: -2 or less,127
+E07000195,Newcastle-under-Lyme,-8,Does not apply,0
+E07000195,Newcastle-under-Lyme,1,Occupancy rating of rooms: +2 or more,29101
+E07000195,Newcastle-under-Lyme,2,Occupancy rating of rooms: +1,13934
+E07000195,Newcastle-under-Lyme,3,Occupancy rating of rooms: 0,8752
+E07000195,Newcastle-under-Lyme,4,Occupancy rating of rooms: -1,1435
+E07000195,Newcastle-under-Lyme,5,Occupancy rating of rooms: -2 or less,201
+E07000196,South Staffordshire,-8,Does not apply,0
+E07000196,South Staffordshire,1,Occupancy rating of rooms: +2 or more,26222
+E07000196,South Staffordshire,2,Occupancy rating of rooms: +1,12463
+E07000196,South Staffordshire,3,Occupancy rating of rooms: 0,6346
+E07000196,South Staffordshire,4,Occupancy rating of rooms: -1,962
+E07000196,South Staffordshire,5,Occupancy rating of rooms: -2 or less,128
+E07000197,Stafford,-8,Does not apply,0
+E07000197,Stafford,1,Occupancy rating of rooms: +2 or more,35301
+E07000197,Stafford,2,Occupancy rating of rooms: +1,14632
+E07000197,Stafford,3,Occupancy rating of rooms: 0,8867
+E07000197,Stafford,4,Occupancy rating of rooms: -1,1135
+E07000197,Stafford,5,Occupancy rating of rooms: -2 or less,111
+E07000198,Staffordshire Moorlands,-8,Does not apply,0
+E07000198,Staffordshire Moorlands,1,Occupancy rating of rooms: +2 or more,24310
+E07000198,Staffordshire Moorlands,2,Occupancy rating of rooms: +1,11575
+E07000198,Staffordshire Moorlands,3,Occupancy rating of rooms: 0,5555
+E07000198,Staffordshire Moorlands,4,Occupancy rating of rooms: -1,799
+E07000198,Staffordshire Moorlands,5,Occupancy rating of rooms: -2 or less,116
+E07000199,Tamworth,-8,Does not apply,0
+E07000199,Tamworth,1,Occupancy rating of rooms: +2 or more,16052
+E07000199,Tamworth,2,Occupancy rating of rooms: +1,9025
+E07000199,Tamworth,3,Occupancy rating of rooms: 0,6586
+E07000199,Tamworth,4,Occupancy rating of rooms: -1,1084
+E07000199,Tamworth,5,Occupancy rating of rooms: -2 or less,148
+E07000200,Babergh,-8,Does not apply,0
+E07000200,Babergh,1,Occupancy rating of rooms: +2 or more,22891
+E07000200,Babergh,2,Occupancy rating of rooms: +1,10200
+E07000200,Babergh,3,Occupancy rating of rooms: 0,6098
+E07000200,Babergh,4,Occupancy rating of rooms: -1,900
+E07000200,Babergh,5,Occupancy rating of rooms: -2 or less,111
+E07000202,Ipswich,-8,Does not apply,0
+E07000202,Ipswich,1,Occupancy rating of rooms: +2 or more,28469
+E07000202,Ipswich,2,Occupancy rating of rooms: +1,14185
+E07000202,Ipswich,3,Occupancy rating of rooms: 0,13471
+E07000202,Ipswich,4,Occupancy rating of rooms: -1,2882
+E07000202,Ipswich,5,Occupancy rating of rooms: -2 or less,500
+E07000203,Mid Suffolk,-8,Does not apply,0
+E07000203,Mid Suffolk,1,Occupancy rating of rooms: +2 or more,25454
+E07000203,Mid Suffolk,2,Occupancy rating of rooms: +1,11515
+E07000203,Mid Suffolk,3,Occupancy rating of rooms: 0,6359
+E07000203,Mid Suffolk,4,Occupancy rating of rooms: -1,893
+E07000203,Mid Suffolk,5,Occupancy rating of rooms: -2 or less,124
+E07000207,Elmbridge,-8,Does not apply,0
+E07000207,Elmbridge,1,Occupancy rating of rooms: +2 or more,31302
+E07000207,Elmbridge,2,Occupancy rating of rooms: +1,11935
+E07000207,Elmbridge,3,Occupancy rating of rooms: 0,10186
+E07000207,Elmbridge,4,Occupancy rating of rooms: -1,1931
+E07000207,Elmbridge,5,Occupancy rating of rooms: -2 or less,236
+E07000208,Epsom and Ewell,-8,Does not apply,0
+E07000208,Epsom and Ewell,1,Occupancy rating of rooms: +2 or more,16062
+E07000208,Epsom and Ewell,2,Occupancy rating of rooms: +1,7447
+E07000208,Epsom and Ewell,3,Occupancy rating of rooms: 0,6130
+E07000208,Epsom and Ewell,4,Occupancy rating of rooms: -1,1399
+E07000208,Epsom and Ewell,5,Occupancy rating of rooms: -2 or less,283
+E07000209,Guildford,-8,Does not apply,0
+E07000209,Guildford,1,Occupancy rating of rooms: +2 or more,28936
+E07000209,Guildford,2,Occupancy rating of rooms: +1,12590
+E07000209,Guildford,3,Occupancy rating of rooms: 0,11274
+E07000209,Guildford,4,Occupancy rating of rooms: -1,2660
+E07000209,Guildford,5,Occupancy rating of rooms: -2 or less,300
+E07000210,Mole Valley,-8,Does not apply,0
+E07000210,Mole Valley,1,Occupancy rating of rooms: +2 or more,20022
+E07000210,Mole Valley,2,Occupancy rating of rooms: +1,8318
+E07000210,Mole Valley,3,Occupancy rating of rooms: 0,6917
+E07000210,Mole Valley,4,Occupancy rating of rooms: -1,1730
+E07000210,Mole Valley,5,Occupancy rating of rooms: -2 or less,153
+E07000211,Reigate and Banstead,-8,Does not apply,0
+E07000211,Reigate and Banstead,1,Occupancy rating of rooms: +2 or more,29707
+E07000211,Reigate and Banstead,2,Occupancy rating of rooms: +1,14824
+E07000211,Reigate and Banstead,3,Occupancy rating of rooms: 0,12106
+E07000211,Reigate and Banstead,4,Occupancy rating of rooms: -1,2802
+E07000211,Reigate and Banstead,5,Occupancy rating of rooms: -2 or less,410
+E07000212,Runnymede,-8,Does not apply,0
+E07000212,Runnymede,1,Occupancy rating of rooms: +2 or more,15803
+E07000212,Runnymede,2,Occupancy rating of rooms: +1,8478
+E07000212,Runnymede,3,Occupancy rating of rooms: 0,8468
+E07000212,Runnymede,4,Occupancy rating of rooms: -1,1846
+E07000212,Runnymede,5,Occupancy rating of rooms: -2 or less,243
+E07000213,Spelthorne,-8,Does not apply,0
+E07000213,Spelthorne,1,Occupancy rating of rooms: +2 or more,17711
+E07000213,Spelthorne,2,Occupancy rating of rooms: +1,10795
+E07000213,Spelthorne,3,Occupancy rating of rooms: 0,10319
+E07000213,Spelthorne,4,Occupancy rating of rooms: -1,2577
+E07000213,Spelthorne,5,Occupancy rating of rooms: -2 or less,403
+E07000214,Surrey Heath,-8,Does not apply,0
+E07000214,Surrey Heath,1,Occupancy rating of rooms: +2 or more,21309
+E07000214,Surrey Heath,2,Occupancy rating of rooms: +1,7320
+E07000214,Surrey Heath,3,Occupancy rating of rooms: 0,6086
+E07000214,Surrey Heath,4,Occupancy rating of rooms: -1,1128
+E07000214,Surrey Heath,5,Occupancy rating of rooms: -2 or less,165
+E07000215,Tandridge,-8,Does not apply,0
+E07000215,Tandridge,1,Occupancy rating of rooms: +2 or more,18989
+E07000215,Tandridge,2,Occupancy rating of rooms: +1,8340
+E07000215,Tandridge,3,Occupancy rating of rooms: 0,6716
+E07000215,Tandridge,4,Occupancy rating of rooms: -1,1373
+E07000215,Tandridge,5,Occupancy rating of rooms: -2 or less,205
+E07000216,Waverley,-8,Does not apply,0
+E07000216,Waverley,1,Occupancy rating of rooms: +2 or more,29812
+E07000216,Waverley,2,Occupancy rating of rooms: +1,11579
+E07000216,Waverley,3,Occupancy rating of rooms: 0,9400
+E07000216,Waverley,4,Occupancy rating of rooms: -1,1464
+E07000216,Waverley,5,Occupancy rating of rooms: -2 or less,191
+E07000217,Woking,-8,Does not apply,0
+E07000217,Woking,1,Occupancy rating of rooms: +2 or more,19847
+E07000217,Woking,2,Occupancy rating of rooms: +1,9487
+E07000217,Woking,3,Occupancy rating of rooms: 0,9368
+E07000217,Woking,4,Occupancy rating of rooms: -1,2315
+E07000217,Woking,5,Occupancy rating of rooms: -2 or less,420
+E07000218,North Warwickshire,-8,Does not apply,0
+E07000218,North Warwickshire,1,Occupancy rating of rooms: +2 or more,14166
+E07000218,North Warwickshire,2,Occupancy rating of rooms: +1,7828
+E07000218,North Warwickshire,3,Occupancy rating of rooms: 0,4743
+E07000218,North Warwickshire,4,Occupancy rating of rooms: -1,756
+E07000218,North Warwickshire,5,Occupancy rating of rooms: -2 or less,84
+E07000219,Nuneaton and Bedworth,-8,Does not apply,0
+E07000219,Nuneaton and Bedworth,1,Occupancy rating of rooms: +2 or more,27120
+E07000219,Nuneaton and Bedworth,2,Occupancy rating of rooms: +1,16293
+E07000219,Nuneaton and Bedworth,3,Occupancy rating of rooms: 0,10737
+E07000219,Nuneaton and Bedworth,4,Occupancy rating of rooms: -1,2074
+E07000219,Nuneaton and Bedworth,5,Occupancy rating of rooms: -2 or less,362
+E07000220,Rugby,-8,Does not apply,0
+E07000220,Rugby,1,Occupancy rating of rooms: +2 or more,24948
+E07000220,Rugby,2,Occupancy rating of rooms: +1,12214
+E07000220,Rugby,3,Occupancy rating of rooms: 0,8262
+E07000220,Rugby,4,Occupancy rating of rooms: -1,1350
+E07000220,Rugby,5,Occupancy rating of rooms: -2 or less,241
+E07000221,Stratford-on-Avon,-8,Does not apply,0
+E07000221,Stratford-on-Avon,1,Occupancy rating of rooms: +2 or more,33021
+E07000221,Stratford-on-Avon,2,Occupancy rating of rooms: +1,16142
+E07000221,Stratford-on-Avon,3,Occupancy rating of rooms: 0,9098
+E07000221,Stratford-on-Avon,4,Occupancy rating of rooms: -1,1073
+E07000221,Stratford-on-Avon,5,Occupancy rating of rooms: -2 or less,130
+E07000222,Warwick,-8,Does not apply,0
+E07000222,Warwick,1,Occupancy rating of rooms: +2 or more,30665
+E07000222,Warwick,2,Occupancy rating of rooms: +1,17528
+E07000222,Warwick,3,Occupancy rating of rooms: 0,12012
+E07000222,Warwick,4,Occupancy rating of rooms: -1,2158
+E07000222,Warwick,5,Occupancy rating of rooms: -2 or less,253
+E07000223,Adur,-8,Does not apply,0
+E07000223,Adur,1,Occupancy rating of rooms: +2 or more,11207
+E07000223,Adur,2,Occupancy rating of rooms: +1,8715
+E07000223,Adur,3,Occupancy rating of rooms: 0,6146
+E07000223,Adur,4,Occupancy rating of rooms: -1,1433
+E07000223,Adur,5,Occupancy rating of rooms: -2 or less,177
+E07000224,Arun,-8,Does not apply,0
+E07000224,Arun,1,Occupancy rating of rooms: +2 or more,31858
+E07000224,Arun,2,Occupancy rating of rooms: +1,21975
+E07000224,Arun,3,Occupancy rating of rooms: 0,14901
+E07000224,Arun,4,Occupancy rating of rooms: -1,3499
+E07000224,Arun,5,Occupancy rating of rooms: -2 or less,428
+E07000225,Chichester,-8,Does not apply,0
+E07000225,Chichester,1,Occupancy rating of rooms: +2 or more,28090
+E07000225,Chichester,2,Occupancy rating of rooms: +1,13774
+E07000225,Chichester,3,Occupancy rating of rooms: 0,10308
+E07000225,Chichester,4,Occupancy rating of rooms: -1,1757
+E07000225,Chichester,5,Occupancy rating of rooms: -2 or less,189
+E07000226,Crawley,-8,Does not apply,0
+E07000226,Crawley,1,Occupancy rating of rooms: +2 or more,17584
+E07000226,Crawley,2,Occupancy rating of rooms: +1,11251
+E07000226,Crawley,3,Occupancy rating of rooms: 0,12606
+E07000226,Crawley,4,Occupancy rating of rooms: -1,3459
+E07000226,Crawley,5,Occupancy rating of rooms: -2 or less,602
+E07000227,Horsham,-8,Does not apply,0
+E07000227,Horsham,1,Occupancy rating of rooms: +2 or more,32456
+E07000227,Horsham,2,Occupancy rating of rooms: +1,15740
+E07000227,Horsham,3,Occupancy rating of rooms: 0,11857
+E07000227,Horsham,4,Occupancy rating of rooms: -1,2164
+E07000227,Horsham,5,Occupancy rating of rooms: -2 or less,153
+E07000228,Mid Sussex,-8,Does not apply,0
+E07000228,Mid Sussex,1,Occupancy rating of rooms: +2 or more,32404
+E07000228,Mid Sussex,2,Occupancy rating of rooms: +1,15975
+E07000228,Mid Sussex,3,Occupancy rating of rooms: 0,12505
+E07000228,Mid Sussex,4,Occupancy rating of rooms: -1,2229
+E07000228,Mid Sussex,5,Occupancy rating of rooms: -2 or less,236
+E07000229,Worthing,-8,Does not apply,0
+E07000229,Worthing,1,Occupancy rating of rooms: +2 or more,19949
+E07000229,Worthing,2,Occupancy rating of rooms: +1,13893
+E07000229,Worthing,3,Occupancy rating of rooms: 0,12059
+E07000229,Worthing,4,Occupancy rating of rooms: -1,3309
+E07000229,Worthing,5,Occupancy rating of rooms: -2 or less,328
+E07000234,Bromsgrove,-8,Does not apply,0
+E07000234,Bromsgrove,1,Occupancy rating of rooms: +2 or more,24516
+E07000234,Bromsgrove,2,Occupancy rating of rooms: +1,9450
+E07000234,Bromsgrove,3,Occupancy rating of rooms: 0,6318
+E07000234,Bromsgrove,4,Occupancy rating of rooms: -1,866
+E07000234,Bromsgrove,5,Occupancy rating of rooms: -2 or less,114
+E07000235,Malvern Hills,-8,Does not apply,0
+E07000235,Malvern Hills,1,Occupancy rating of rooms: +2 or more,20004
+E07000235,Malvern Hills,2,Occupancy rating of rooms: +1,8317
+E07000235,Malvern Hills,3,Occupancy rating of rooms: 0,5673
+E07000235,Malvern Hills,4,Occupancy rating of rooms: -1,816
+E07000235,Malvern Hills,5,Occupancy rating of rooms: -2 or less,81
+E07000236,Redditch,-8,Does not apply,0
+E07000236,Redditch,1,Occupancy rating of rooms: +2 or more,17658
+E07000236,Redditch,2,Occupancy rating of rooms: +1,9048
+E07000236,Redditch,3,Occupancy rating of rooms: 0,7778
+E07000236,Redditch,4,Occupancy rating of rooms: -1,1650
+E07000236,Redditch,5,Occupancy rating of rooms: -2 or less,244
+E07000237,Worcester,-8,Does not apply,0
+E07000237,Worcester,1,Occupancy rating of rooms: +2 or more,20870
+E07000237,Worcester,2,Occupancy rating of rooms: +1,11681
+E07000237,Worcester,3,Occupancy rating of rooms: 0,9946
+E07000237,Worcester,4,Occupancy rating of rooms: -1,1965
+E07000237,Worcester,5,Occupancy rating of rooms: -2 or less,261
+E07000238,Wychavon,-8,Does not apply,0
+E07000238,Wychavon,1,Occupancy rating of rooms: +2 or more,31428
+E07000238,Wychavon,2,Occupancy rating of rooms: +1,13889
+E07000238,Wychavon,3,Occupancy rating of rooms: 0,10312
+E07000238,Wychavon,4,Occupancy rating of rooms: -1,1546
+E07000238,Wychavon,5,Occupancy rating of rooms: -2 or less,181
+E07000239,Wyre Forest,-8,Does not apply,0
+E07000239,Wyre Forest,1,Occupancy rating of rooms: +2 or more,22824
+E07000239,Wyre Forest,2,Occupancy rating of rooms: +1,12242
+E07000239,Wyre Forest,3,Occupancy rating of rooms: 0,8546
+E07000239,Wyre Forest,4,Occupancy rating of rooms: -1,1528
+E07000239,Wyre Forest,5,Occupancy rating of rooms: -2 or less,180
+E07000240,St Albans,-8,Does not apply,0
+E07000240,St Albans,1,Occupancy rating of rooms: +2 or more,29592
+E07000240,St Albans,2,Occupancy rating of rooms: +1,14575
+E07000240,St Albans,3,Occupancy rating of rooms: 0,12068
+E07000240,St Albans,4,Occupancy rating of rooms: -1,2418
+E07000240,St Albans,5,Occupancy rating of rooms: -2 or less,338
+E07000241,Welwyn Hatfield,-8,Does not apply,0
+E07000241,Welwyn Hatfield,1,Occupancy rating of rooms: +2 or more,19347
+E07000241,Welwyn Hatfield,2,Occupancy rating of rooms: +1,11860
+E07000241,Welwyn Hatfield,3,Occupancy rating of rooms: 0,11819
+E07000241,Welwyn Hatfield,4,Occupancy rating of rooms: -1,2691
+E07000241,Welwyn Hatfield,5,Occupancy rating of rooms: -2 or less,493
+E07000242,East Hertfordshire,-8,Does not apply,0
+E07000242,East Hertfordshire,1,Occupancy rating of rooms: +2 or more,30316
+E07000242,East Hertfordshire,2,Occupancy rating of rooms: +1,15956
+E07000242,East Hertfordshire,3,Occupancy rating of rooms: 0,13458
+E07000242,East Hertfordshire,4,Occupancy rating of rooms: -1,2048
+E07000242,East Hertfordshire,5,Occupancy rating of rooms: -2 or less,243
+E07000243,Stevenage,-8,Does not apply,0
+E07000243,Stevenage,1,Occupancy rating of rooms: +2 or more,14445
+E07000243,Stevenage,2,Occupancy rating of rooms: +1,9272
+E07000243,Stevenage,3,Occupancy rating of rooms: 0,10031
+E07000243,Stevenage,4,Occupancy rating of rooms: -1,2453
+E07000243,Stevenage,5,Occupancy rating of rooms: -2 or less,310
+E07000244,East Suffolk,-8,Does not apply,0
+E07000244,East Suffolk,1,Occupancy rating of rooms: +2 or more,62775
+E07000244,East Suffolk,2,Occupancy rating of rooms: +1,28116
+E07000244,East Suffolk,3,Occupancy rating of rooms: 0,17003
+E07000244,East Suffolk,4,Occupancy rating of rooms: -1,2560
+E07000244,East Suffolk,5,Occupancy rating of rooms: -2 or less,293
+E07000245,West Suffolk,-8,Does not apply,0
+E07000245,West Suffolk,1,Occupancy rating of rooms: +2 or more,39812
+E07000245,West Suffolk,2,Occupancy rating of rooms: +1,22217
+E07000245,West Suffolk,3,Occupancy rating of rooms: 0,14271
+E07000245,West Suffolk,4,Occupancy rating of rooms: -1,2192
+E07000245,West Suffolk,5,Occupancy rating of rooms: -2 or less,254
+E07000246,Somerset West and Taunton,-8,Does not apply,0
+E07000246,Somerset West and Taunton,1,Occupancy rating of rooms: +2 or more,36791
+E07000246,Somerset West and Taunton,2,Occupancy rating of rooms: +1,18497
+E07000246,Somerset West and Taunton,3,Occupancy rating of rooms: 0,12628
+E07000246,Somerset West and Taunton,4,Occupancy rating of rooms: -1,1841
+E07000246,Somerset West and Taunton,5,Occupancy rating of rooms: -2 or less,230
+E08000001,Bolton,-8,Does not apply,0
+E08000001,Bolton,1,Occupancy rating of rooms: +2 or more,44158
+E08000001,Bolton,2,Occupancy rating of rooms: +1,37066
+E08000001,Bolton,3,Occupancy rating of rooms: 0,27912
+E08000001,Bolton,4,Occupancy rating of rooms: -1,7117
+E08000001,Bolton,5,Occupancy rating of rooms: -2 or less,2535
+E08000002,Bury,-8,Does not apply,0
+E08000002,Bury,1,Occupancy rating of rooms: +2 or more,34919
+E08000002,Bury,2,Occupancy rating of rooms: +1,24351
+E08000002,Bury,3,Occupancy rating of rooms: 0,16726
+E08000002,Bury,4,Occupancy rating of rooms: -1,3753
+E08000002,Bury,5,Occupancy rating of rooms: -2 or less,943
+E08000003,Manchester,-8,Does not apply,0
+E08000003,Manchester,1,Occupancy rating of rooms: +2 or more,62523
+E08000003,Manchester,2,Occupancy rating of rooms: +1,63804
+E08000003,Manchester,3,Occupancy rating of rooms: 0,66753
+E08000003,Manchester,4,Occupancy rating of rooms: -1,17365
+E08000003,Manchester,5,Occupancy rating of rooms: -2 or less,4287
+E08000004,Oldham,-8,Does not apply,0
+E08000004,Oldham,1,Occupancy rating of rooms: +2 or more,32549
+E08000004,Oldham,2,Occupancy rating of rooms: +1,28571
+E08000004,Oldham,3,Occupancy rating of rooms: 0,22747
+E08000004,Oldham,4,Occupancy rating of rooms: -1,6693
+E08000004,Oldham,5,Occupancy rating of rooms: -2 or less,2581
+E08000005,Rochdale,-8,Does not apply,0
+E08000005,Rochdale,1,Occupancy rating of rooms: +2 or more,33658
+E08000005,Rochdale,2,Occupancy rating of rooms: +1,27992
+E08000005,Rochdale,3,Occupancy rating of rooms: 0,21426
+E08000005,Rochdale,4,Occupancy rating of rooms: -1,5529
+E08000005,Rochdale,5,Occupancy rating of rooms: -2 or less,1618
+E08000006,Salford,-8,Does not apply,0
+E08000006,Salford,1,Occupancy rating of rooms: +2 or more,40931
+E08000006,Salford,2,Occupancy rating of rooms: +1,35560
+E08000006,Salford,3,Occupancy rating of rooms: 0,30776
+E08000006,Salford,4,Occupancy rating of rooms: -1,6645
+E08000006,Salford,5,Occupancy rating of rooms: -2 or less,1204
+E08000007,Stockport,-8,Does not apply,0
+E08000007,Stockport,1,Occupancy rating of rooms: +2 or more,62768
+E08000007,Stockport,2,Occupancy rating of rooms: +1,34982
+E08000007,Stockport,3,Occupancy rating of rooms: 0,23903
+E08000007,Stockport,4,Occupancy rating of rooms: -1,4360
+E08000007,Stockport,5,Occupancy rating of rooms: -2 or less,632
+E08000008,Tameside,-8,Does not apply,0
+E08000008,Tameside,1,Occupancy rating of rooms: +2 or more,33670
+E08000008,Tameside,2,Occupancy rating of rooms: +1,34093
+E08000008,Tameside,3,Occupancy rating of rooms: 0,25330
+E08000008,Tameside,4,Occupancy rating of rooms: -1,5256
+E08000008,Tameside,5,Occupancy rating of rooms: -2 or less,1179
+E08000009,Trafford,-8,Does not apply,0
+E08000009,Trafford,1,Occupancy rating of rooms: +2 or more,50470
+E08000009,Trafford,2,Occupancy rating of rooms: +1,24636
+E08000009,Trafford,3,Occupancy rating of rooms: 0,17185
+E08000009,Trafford,4,Occupancy rating of rooms: -1,3433
+E08000009,Trafford,5,Occupancy rating of rooms: -2 or less,545
+E08000010,Wigan,-8,Does not apply,0
+E08000010,Wigan,1,Occupancy rating of rooms: +2 or more,70457
+E08000010,Wigan,2,Occupancy rating of rooms: +1,43237
+E08000010,Wigan,3,Occupancy rating of rooms: 0,24333
+E08000010,Wigan,4,Occupancy rating of rooms: -1,4408
+E08000010,Wigan,5,Occupancy rating of rooms: -2 or less,670
+E08000011,Knowsley,-8,Does not apply,0
+E08000011,Knowsley,1,Occupancy rating of rooms: +2 or more,33669
+E08000011,Knowsley,2,Occupancy rating of rooms: +1,19569
+E08000011,Knowsley,3,Occupancy rating of rooms: 0,10681
+E08000011,Knowsley,4,Occupancy rating of rooms: -1,1823
+E08000011,Knowsley,5,Occupancy rating of rooms: -2 or less,326
+E08000012,Liverpool,-8,Does not apply,0
+E08000012,Liverpool,1,Occupancy rating of rooms: +2 or more,95602
+E08000012,Liverpool,2,Occupancy rating of rooms: +1,57874
+E08000012,Liverpool,3,Occupancy rating of rooms: 0,43096
+E08000012,Liverpool,4,Occupancy rating of rooms: -1,9504
+E08000012,Liverpool,5,Occupancy rating of rooms: -2 or less,1418
+E08000013,St. Helens,-8,Does not apply,0
+E08000013,St. Helens,1,Occupancy rating of rooms: +2 or more,42230
+E08000013,St. Helens,2,Occupancy rating of rooms: +1,23601
+E08000013,St. Helens,3,Occupancy rating of rooms: 0,12845
+E08000013,St. Helens,4,Occupancy rating of rooms: -1,2038
+E08000013,St. Helens,5,Occupancy rating of rooms: -2 or less,297
+E08000014,Sefton,-8,Does not apply,0
+E08000014,Sefton,1,Occupancy rating of rooms: +2 or more,67738
+E08000014,Sefton,2,Occupancy rating of rooms: +1,31626
+E08000014,Sefton,3,Occupancy rating of rooms: 0,19980
+E08000014,Sefton,4,Occupancy rating of rooms: -1,3191
+E08000014,Sefton,5,Occupancy rating of rooms: -2 or less,540
+E08000015,Wirral,-8,Does not apply,0
+E08000015,Wirral,1,Occupancy rating of rooms: +2 or more,80068
+E08000015,Wirral,2,Occupancy rating of rooms: +1,38398
+E08000015,Wirral,3,Occupancy rating of rooms: 0,21392
+E08000015,Wirral,4,Occupancy rating of rooms: -1,3030
+E08000015,Wirral,5,Occupancy rating of rooms: -2 or less,364
+E08000016,Barnsley,-8,Does not apply,0
+E08000016,Barnsley,1,Occupancy rating of rooms: +2 or more,47498
+E08000016,Barnsley,2,Occupancy rating of rooms: +1,37119
+E08000016,Barnsley,3,Occupancy rating of rooms: 0,19622
+E08000016,Barnsley,4,Occupancy rating of rooms: -1,3280
+E08000016,Barnsley,5,Occupancy rating of rooms: -2 or less,534
+E08000017,Doncaster,-8,Does not apply,0
+E08000017,Doncaster,1,Occupancy rating of rooms: +2 or more,69369
+E08000017,Doncaster,2,Occupancy rating of rooms: +1,38656
+E08000017,Doncaster,3,Occupancy rating of rooms: 0,21392
+E08000017,Doncaster,4,Occupancy rating of rooms: -1,3519
+E08000017,Doncaster,5,Occupancy rating of rooms: -2 or less,544
+E08000018,Rotherham,-8,Does not apply,0
+E08000018,Rotherham,1,Occupancy rating of rooms: +2 or more,56127
+E08000018,Rotherham,2,Occupancy rating of rooms: +1,34033
+E08000018,Rotherham,3,Occupancy rating of rooms: 0,19789
+E08000018,Rotherham,4,Occupancy rating of rooms: -1,3274
+E08000018,Rotherham,5,Occupancy rating of rooms: -2 or less,702
+E08000019,Sheffield,-8,Does not apply,0
+E08000019,Sheffield,1,Occupancy rating of rooms: +2 or more,99439
+E08000019,Sheffield,2,Occupancy rating of rooms: +1,64039
+E08000019,Sheffield,3,Occupancy rating of rooms: 0,54085
+E08000019,Sheffield,4,Occupancy rating of rooms: -1,12084
+E08000019,Sheffield,5,Occupancy rating of rooms: -2 or less,2304
+E08000021,Newcastle upon Tyne,-8,Does not apply,0
+E08000021,Newcastle upon Tyne,1,Occupancy rating of rooms: +2 or more,49671
+E08000021,Newcastle upon Tyne,2,Occupancy rating of rooms: +1,38416
+E08000021,Newcastle upon Tyne,3,Occupancy rating of rooms: 0,28132
+E08000021,Newcastle upon Tyne,4,Occupancy rating of rooms: -1,5603
+E08000021,Newcastle upon Tyne,5,Occupancy rating of rooms: -2 or less,975
+E08000022,North Tyneside,-8,Does not apply,0
+E08000022,North Tyneside,1,Occupancy rating of rooms: +2 or more,45217
+E08000022,North Tyneside,2,Occupancy rating of rooms: +1,30701
+E08000022,North Tyneside,3,Occupancy rating of rooms: 0,17807
+E08000022,North Tyneside,4,Occupancy rating of rooms: -1,2255
+E08000022,North Tyneside,5,Occupancy rating of rooms: -2 or less,252
+E08000023,South Tyneside,-8,Does not apply,0
+E08000023,South Tyneside,1,Occupancy rating of rooms: +2 or more,29969
+E08000023,South Tyneside,2,Occupancy rating of rooms: +1,21722
+E08000023,South Tyneside,3,Occupancy rating of rooms: 0,14443
+E08000023,South Tyneside,4,Occupancy rating of rooms: -1,1913
+E08000023,South Tyneside,5,Occupancy rating of rooms: -2 or less,240
+E08000024,Sunderland,-8,Does not apply,0
+E08000024,Sunderland,1,Occupancy rating of rooms: +2 or more,55220
+E08000024,Sunderland,2,Occupancy rating of rooms: +1,39019
+E08000024,Sunderland,3,Occupancy rating of rooms: 0,23709
+E08000024,Sunderland,4,Occupancy rating of rooms: -1,3752
+E08000024,Sunderland,5,Occupancy rating of rooms: -2 or less,477
+E08000025,Birmingham,-8,Does not apply,0
+E08000025,Birmingham,1,Occupancy rating of rooms: +2 or more,164603
+E08000025,Birmingham,2,Occupancy rating of rooms: +1,104505
+E08000025,Birmingham,3,Occupancy rating of rooms: 0,109814
+E08000025,Birmingham,4,Occupancy rating of rooms: -1,33150
+E08000025,Birmingham,5,Occupancy rating of rooms: -2 or less,11386
+E08000026,Coventry,-8,Does not apply,0
+E08000026,Coventry,1,Occupancy rating of rooms: +2 or more,57776
+E08000026,Coventry,2,Occupancy rating of rooms: +1,37174
+E08000026,Coventry,3,Occupancy rating of rooms: 0,28893
+E08000026,Coventry,4,Occupancy rating of rooms: -1,8476
+E08000026,Coventry,5,Occupancy rating of rooms: -2 or less,1820
+E08000027,Dudley,-8,Does not apply,0
+E08000027,Dudley,1,Occupancy rating of rooms: +2 or more,64516
+E08000027,Dudley,2,Occupancy rating of rooms: +1,38818
+E08000027,Dudley,3,Occupancy rating of rooms: 0,27850
+E08000027,Dudley,4,Occupancy rating of rooms: -1,4815
+E08000027,Dudley,5,Occupancy rating of rooms: -2 or less,1069
+E08000028,Sandwell,-8,Does not apply,0
+E08000028,Sandwell,1,Occupancy rating of rooms: +2 or more,48027
+E08000028,Sandwell,2,Occupancy rating of rooms: +1,37651
+E08000028,Sandwell,3,Occupancy rating of rooms: 0,33903
+E08000028,Sandwell,4,Occupancy rating of rooms: -1,8039
+E08000028,Sandwell,5,Occupancy rating of rooms: -2 or less,2626
+E08000029,Solihull,-8,Does not apply,0
+E08000029,Solihull,1,Occupancy rating of rooms: +2 or more,48842
+E08000029,Solihull,2,Occupancy rating of rooms: +1,21577
+E08000029,Solihull,3,Occupancy rating of rooms: 0,15946
+E08000029,Solihull,4,Occupancy rating of rooms: -1,2697
+E08000029,Solihull,5,Occupancy rating of rooms: -2 or less,421
+E08000030,Walsall,-8,Does not apply,0
+E08000030,Walsall,1,Occupancy rating of rooms: +2 or more,48548
+E08000030,Walsall,2,Occupancy rating of rooms: +1,32195
+E08000030,Walsall,3,Occupancy rating of rooms: 0,24691
+E08000030,Walsall,4,Occupancy rating of rooms: -1,5268
+E08000030,Walsall,5,Occupancy rating of rooms: -2 or less,1523
+E08000031,Wolverhampton,-8,Does not apply,0
+E08000031,Wolverhampton,1,Occupancy rating of rooms: +2 or more,44577
+E08000031,Wolverhampton,2,Occupancy rating of rooms: +1,28420
+E08000031,Wolverhampton,3,Occupancy rating of rooms: 0,25507
+E08000031,Wolverhampton,4,Occupancy rating of rooms: -1,5484
+E08000031,Wolverhampton,5,Occupancy rating of rooms: -2 or less,1153
+E08000032,Bradford,-8,Does not apply,0
+E08000032,Bradford,1,Occupancy rating of rooms: +2 or more,85137
+E08000032,Bradford,2,Occupancy rating of rooms: +1,59455
+E08000032,Bradford,3,Occupancy rating of rooms: 0,47779
+E08000032,Bradford,4,Occupancy rating of rooms: -1,13014
+E08000032,Bradford,5,Occupancy rating of rooms: -2 or less,4485
+E08000033,Calderdale,-8,Does not apply,0
+E08000033,Calderdale,1,Occupancy rating of rooms: +2 or more,37898
+E08000033,Calderdale,2,Occupancy rating of rooms: +1,27962
+E08000033,Calderdale,3,Occupancy rating of rooms: 0,20137
+E08000033,Calderdale,4,Occupancy rating of rooms: -1,3770
+E08000033,Calderdale,5,Occupancy rating of rooms: -2 or less,709
+E08000034,Kirklees,-8,Does not apply,0
+E08000034,Kirklees,1,Occupancy rating of rooms: +2 or more,73200
+E08000034,Kirklees,2,Occupancy rating of rooms: +1,50574
+E08000034,Kirklees,3,Occupancy rating of rooms: 0,41978
+E08000034,Kirklees,4,Occupancy rating of rooms: -1,9644
+E08000034,Kirklees,5,Occupancy rating of rooms: -2 or less,2592
+E08000035,Leeds,-8,Does not apply,0
+E08000035,Leeds,1,Occupancy rating of rooms: +2 or more,137104
+E08000035,Leeds,2,Occupancy rating of rooms: +1,102950
+E08000035,Leeds,3,Occupancy rating of rooms: 0,77935
+E08000035,Leeds,4,Occupancy rating of rooms: -1,19839
+E08000035,Leeds,5,Occupancy rating of rooms: -2 or less,3638
+E08000036,Wakefield,-8,Does not apply,0
+E08000036,Wakefield,1,Occupancy rating of rooms: +2 or more,69017
+E08000036,Wakefield,2,Occupancy rating of rooms: +1,49949
+E08000036,Wakefield,3,Occupancy rating of rooms: 0,28389
+E08000036,Wakefield,4,Occupancy rating of rooms: -1,4868
+E08000036,Wakefield,5,Occupancy rating of rooms: -2 or less,852
+E08000037,Gateshead,-8,Does not apply,0
+E08000037,Gateshead,1,Occupancy rating of rooms: +2 or more,35964
+E08000037,Gateshead,2,Occupancy rating of rooms: +1,31084
+E08000037,Gateshead,3,Occupancy rating of rooms: 0,18757
+E08000037,Gateshead,4,Occupancy rating of rooms: -1,2763
+E08000037,Gateshead,5,Occupancy rating of rooms: -2 or less,431
+E09000001,City of London,-8,Does not apply,0
+E09000001,City of London,1,Occupancy rating of rooms: +2 or more,623
+E09000001,City of London,2,Occupancy rating of rooms: +1,1231
+E09000001,City of London,3,Occupancy rating of rooms: 0,2229
+E09000001,City of London,4,Occupancy rating of rooms: -1,780
+E09000001,City of London,5,Occupancy rating of rooms: -2 or less,51
+E09000002,Barking and Dagenham,-8,Does not apply,0
+E09000002,Barking and Dagenham,1,Occupancy rating of rooms: +2 or more,15511
+E09000002,Barking and Dagenham,2,Occupancy rating of rooms: +1,18042
+E09000002,Barking and Dagenham,3,Occupancy rating of rooms: 0,25261
+E09000002,Barking and Dagenham,4,Occupancy rating of rooms: -1,11207
+E09000002,Barking and Dagenham,5,Occupancy rating of rooms: -2 or less,3881
+E09000003,Barnet,-8,Does not apply,0
+E09000003,Barnet,1,Occupancy rating of rooms: +2 or more,54012
+E09000003,Barnet,2,Occupancy rating of rooms: +1,34144
+E09000003,Barnet,3,Occupancy rating of rooms: 0,39476
+E09000003,Barnet,4,Occupancy rating of rooms: -1,17316
+E09000003,Barnet,5,Occupancy rating of rooms: -2 or less,3969
+E09000004,Bexley,-8,Does not apply,0
+E09000004,Bexley,1,Occupancy rating of rooms: +2 or more,43680
+E09000004,Bexley,2,Occupancy rating of rooms: +1,24283
+E09000004,Bexley,3,Occupancy rating of rooms: 0,20499
+E09000004,Bexley,4,Occupancy rating of rooms: -1,5637
+E09000004,Bexley,5,Occupancy rating of rooms: -2 or less,1201
+E09000005,Brent,-8,Does not apply,0
+E09000005,Brent,1,Occupancy rating of rooms: +2 or more,30793
+E09000005,Brent,2,Occupancy rating of rooms: +1,24045
+E09000005,Brent,3,Occupancy rating of rooms: 0,37008
+E09000005,Brent,4,Occupancy rating of rooms: -1,19218
+E09000005,Brent,5,Occupancy rating of rooms: -2 or less,7548
+E09000006,Bromley,-8,Does not apply,0
+E09000006,Bromley,1,Occupancy rating of rooms: +2 or more,64687
+E09000006,Bromley,2,Occupancy rating of rooms: +1,32437
+E09000006,Bromley,3,Occupancy rating of rooms: 0,30103
+E09000006,Bromley,4,Occupancy rating of rooms: -1,7458
+E09000006,Bromley,5,Occupancy rating of rooms: -2 or less,1142
+E09000007,Camden,-8,Does not apply,0
+E09000007,Camden,1,Occupancy rating of rooms: +2 or more,17738
+E09000007,Camden,2,Occupancy rating of rooms: +1,20563
+E09000007,Camden,3,Occupancy rating of rooms: 0,34462
+E09000007,Camden,4,Occupancy rating of rooms: -1,17035
+E09000007,Camden,5,Occupancy rating of rooms: -2 or less,2964
+E09000008,Croydon,-8,Does not apply,0
+E09000008,Croydon,1,Occupancy rating of rooms: +2 or more,57409
+E09000008,Croydon,2,Occupancy rating of rooms: +1,33949
+E09000008,Croydon,3,Occupancy rating of rooms: 0,41073
+E09000008,Croydon,4,Occupancy rating of rooms: -1,16529
+E09000008,Croydon,5,Occupancy rating of rooms: -2 or less,3986
+E09000009,Ealing,-8,Does not apply,0
+E09000009,Ealing,1,Occupancy rating of rooms: +2 or more,41229
+E09000009,Ealing,2,Occupancy rating of rooms: +1,29943
+E09000009,Ealing,3,Occupancy rating of rooms: 0,39353
+E09000009,Ealing,4,Occupancy rating of rooms: -1,17975
+E09000009,Ealing,5,Occupancy rating of rooms: -2 or less,5159
+E09000010,Enfield,-8,Does not apply,0
+E09000010,Enfield,1,Occupancy rating of rooms: +2 or more,41221
+E09000010,Enfield,2,Occupancy rating of rooms: +1,27271
+E09000010,Enfield,3,Occupancy rating of rooms: 0,32689
+E09000010,Enfield,4,Occupancy rating of rooms: -1,15185
+E09000010,Enfield,5,Occupancy rating of rooms: -2 or less,4557
+E09000011,Greenwich,-8,Does not apply,0
+E09000011,Greenwich,1,Occupancy rating of rooms: +2 or more,33108
+E09000011,Greenwich,2,Occupancy rating of rooms: +1,28341
+E09000011,Greenwich,3,Occupancy rating of rooms: 0,37692
+E09000011,Greenwich,4,Occupancy rating of rooms: -1,11874
+E09000011,Greenwich,5,Occupancy rating of rooms: -2 or less,3037
+E09000012,Hackney,-8,Does not apply,0
+E09000012,Hackney,1,Occupancy rating of rooms: +2 or more,16518
+E09000012,Hackney,2,Occupancy rating of rooms: +1,24743
+E09000012,Hackney,3,Occupancy rating of rooms: 0,44112
+E09000012,Hackney,4,Occupancy rating of rooms: -1,16633
+E09000012,Hackney,5,Occupancy rating of rooms: -2 or less,4075
+E09000013,Hammersmith and Fulham,-8,Does not apply,0
+E09000013,Hammersmith and Fulham,1,Occupancy rating of rooms: +2 or more,17479
+E09000013,Hammersmith and Fulham,2,Occupancy rating of rooms: +1,17678
+E09000013,Hammersmith and Fulham,3,Occupancy rating of rooms: 0,31575
+E09000013,Hammersmith and Fulham,4,Occupancy rating of rooms: -1,12323
+E09000013,Hammersmith and Fulham,5,Occupancy rating of rooms: -2 or less,2189
+E09000014,Haringey,-8,Does not apply,0
+E09000014,Haringey,1,Occupancy rating of rooms: +2 or more,27692
+E09000014,Haringey,2,Occupancy rating of rooms: +1,21899
+E09000014,Haringey,3,Occupancy rating of rooms: 0,33776
+E09000014,Haringey,4,Occupancy rating of rooms: -1,17083
+E09000014,Haringey,5,Occupancy rating of rooms: -2 or less,4642
+E09000015,Harrow,-8,Does not apply,0
+E09000015,Harrow,1,Occupancy rating of rooms: +2 or more,36203
+E09000015,Harrow,2,Occupancy rating of rooms: +1,19684
+E09000015,Harrow,3,Occupancy rating of rooms: 0,20860
+E09000015,Harrow,4,Occupancy rating of rooms: -1,9614
+E09000015,Harrow,5,Occupancy rating of rooms: -2 or less,3281
+E09000016,Havering,-8,Does not apply,0
+E09000016,Havering,1,Occupancy rating of rooms: +2 or more,44270
+E09000016,Havering,2,Occupancy rating of rooms: +1,25769
+E09000016,Havering,3,Occupancy rating of rooms: 0,23188
+E09000016,Havering,4,Occupancy rating of rooms: -1,6625
+E09000016,Havering,5,Occupancy rating of rooms: -2 or less,1425
+E09000017,Hillingdon,-8,Does not apply,0
+E09000017,Hillingdon,1,Occupancy rating of rooms: +2 or more,36451
+E09000017,Hillingdon,2,Occupancy rating of rooms: +1,26728
+E09000017,Hillingdon,3,Occupancy rating of rooms: 0,30146
+E09000017,Hillingdon,4,Occupancy rating of rooms: -1,12355
+E09000017,Hillingdon,5,Occupancy rating of rooms: -2 or less,3545
+E09000018,Hounslow,-8,Does not apply,0
+E09000018,Hounslow,1,Occupancy rating of rooms: +2 or more,28555
+E09000018,Hounslow,2,Occupancy rating of rooms: +1,23197
+E09000018,Hounslow,3,Occupancy rating of rooms: 0,32701
+E09000018,Hounslow,4,Occupancy rating of rooms: -1,13893
+E09000018,Hounslow,5,Occupancy rating of rooms: -2 or less,4616
+E09000019,Islington,-8,Does not apply,0
+E09000019,Islington,1,Occupancy rating of rooms: +2 or more,15555
+E09000019,Islington,2,Occupancy rating of rooms: +1,22363
+E09000019,Islington,3,Occupancy rating of rooms: 0,43756
+E09000019,Islington,4,Occupancy rating of rooms: -1,12686
+E09000019,Islington,5,Occupancy rating of rooms: -2 or less,2136
+E09000020,Kensington and Chelsea,-8,Does not apply,0
+E09000020,Kensington and Chelsea,1,Occupancy rating of rooms: +2 or more,16931
+E09000020,Kensington and Chelsea,2,Occupancy rating of rooms: +1,15130
+E09000020,Kensington and Chelsea,3,Occupancy rating of rooms: 0,21997
+E09000020,Kensington and Chelsea,4,Occupancy rating of rooms: -1,10885
+E09000020,Kensington and Chelsea,5,Occupancy rating of rooms: -2 or less,1941
+E09000021,Kingston upon Thames,-8,Does not apply,0
+E09000021,Kingston upon Thames,1,Occupancy rating of rooms: +2 or more,28737
+E09000021,Kingston upon Thames,2,Occupancy rating of rooms: +1,15010
+E09000021,Kingston upon Thames,3,Occupancy rating of rooms: 0,16242
+E09000021,Kingston upon Thames,4,Occupancy rating of rooms: -1,4852
+E09000021,Kingston upon Thames,5,Occupancy rating of rooms: -2 or less,785
+E09000022,Lambeth,-8,Does not apply,0
+E09000022,Lambeth,1,Occupancy rating of rooms: +2 or more,29173
+E09000022,Lambeth,2,Occupancy rating of rooms: +1,31892
+E09000022,Lambeth,3,Occupancy rating of rooms: 0,51014
+E09000022,Lambeth,4,Occupancy rating of rooms: -1,18480
+E09000022,Lambeth,5,Occupancy rating of rooms: -2 or less,4129
+E09000023,Lewisham,-8,Does not apply,0
+E09000023,Lewisham,1,Occupancy rating of rooms: +2 or more,32138
+E09000023,Lewisham,2,Occupancy rating of rooms: +1,28679
+E09000023,Lewisham,3,Occupancy rating of rooms: 0,41620
+E09000023,Lewisham,4,Occupancy rating of rooms: -1,15998
+E09000023,Lewisham,5,Occupancy rating of rooms: -2 or less,3957
+E09000024,Merton,-8,Does not apply,0
+E09000024,Merton,1,Occupancy rating of rooms: +2 or more,32655
+E09000024,Merton,2,Occupancy rating of rooms: +1,18752
+E09000024,Merton,3,Occupancy rating of rooms: 0,20998
+E09000024,Merton,4,Occupancy rating of rooms: -1,7353
+E09000024,Merton,5,Occupancy rating of rooms: -2 or less,1971
+E09000025,Newham,-8,Does not apply,0
+E09000025,Newham,1,Occupancy rating of rooms: +2 or more,20115
+E09000025,Newham,2,Occupancy rating of rooms: +1,24392
+E09000025,Newham,3,Occupancy rating of rooms: 0,41739
+E09000025,Newham,4,Occupancy rating of rooms: -1,19735
+E09000025,Newham,5,Occupancy rating of rooms: -2 or less,9525
+E09000026,Redbridge,-8,Does not apply,0
+E09000026,Redbridge,1,Occupancy rating of rooms: +2 or more,38190
+E09000026,Redbridge,2,Occupancy rating of rooms: +1,23631
+E09000026,Redbridge,3,Occupancy rating of rooms: 0,25604
+E09000026,Redbridge,4,Occupancy rating of rooms: -1,12141
+E09000026,Redbridge,5,Occupancy rating of rooms: -2 or less,4146
+E09000027,Richmond upon Thames,-8,Does not apply,0
+E09000027,Richmond upon Thames,1,Occupancy rating of rooms: +2 or more,35909
+E09000027,Richmond upon Thames,2,Occupancy rating of rooms: +1,19844
+E09000027,Richmond upon Thames,3,Occupancy rating of rooms: 0,19252
+E09000027,Richmond upon Thames,4,Occupancy rating of rooms: -1,5044
+E09000027,Richmond upon Thames,5,Occupancy rating of rooms: -2 or less,657
+E09000028,Southwark,-8,Does not apply,0
+E09000028,Southwark,1,Occupancy rating of rooms: +2 or more,23862
+E09000028,Southwark,2,Occupancy rating of rooms: +1,31590
+E09000028,Southwark,3,Occupancy rating of rooms: 0,53224
+E09000028,Southwark,4,Occupancy rating of rooms: -1,17656
+E09000028,Southwark,5,Occupancy rating of rooms: -2 or less,4486
+E09000029,Sutton,-8,Does not apply,0
+E09000029,Sutton,1,Occupancy rating of rooms: +2 or more,31612
+E09000029,Sutton,2,Occupancy rating of rooms: +1,20395
+E09000029,Sutton,3,Occupancy rating of rooms: 0,22327
+E09000029,Sutton,4,Occupancy rating of rooms: -1,6879
+E09000029,Sutton,5,Occupancy rating of rooms: -2 or less,1135
+E09000030,Tower Hamlets,-8,Does not apply,0
+E09000030,Tower Hamlets,1,Occupancy rating of rooms: +2 or more,11167
+E09000030,Tower Hamlets,2,Occupancy rating of rooms: +1,28204
+E09000030,Tower Hamlets,3,Occupancy rating of rooms: 0,53831
+E09000030,Tower Hamlets,4,Occupancy rating of rooms: -1,20612
+E09000030,Tower Hamlets,5,Occupancy rating of rooms: -2 or less,6725
+E09000031,Waltham Forest,-8,Does not apply,0
+E09000031,Waltham Forest,1,Occupancy rating of rooms: +2 or more,30917
+E09000031,Waltham Forest,2,Occupancy rating of rooms: +1,23707
+E09000031,Waltham Forest,3,Occupancy rating of rooms: 0,30219
+E09000031,Waltham Forest,4,Occupancy rating of rooms: -1,13407
+E09000031,Waltham Forest,5,Occupancy rating of rooms: -2 or less,4650
+E09000032,Wandsworth,-8,Does not apply,0
+E09000032,Wandsworth,1,Occupancy rating of rooms: +2 or more,36179
+E09000032,Wandsworth,2,Occupancy rating of rooms: +1,34966
+E09000032,Wandsworth,3,Occupancy rating of rooms: 0,48346
+E09000032,Wandsworth,4,Occupancy rating of rooms: -1,15059
+E09000032,Wandsworth,5,Occupancy rating of rooms: -2 or less,2843
+E09000033,Westminster,-8,Does not apply,0
+E09000033,Westminster,1,Occupancy rating of rooms: +2 or more,17522
+E09000033,Westminster,2,Occupancy rating of rooms: +1,21288
+E09000033,Westminster,3,Occupancy rating of rooms: 0,36225
+E09000033,Westminster,4,Occupancy rating of rooms: -1,16418
+E09000033,Westminster,5,Occupancy rating of rooms: -2 or less,3359
+W06000001,Isle of Anglesey,-8,Does not apply,0
+W06000001,Isle of Anglesey,1,Occupancy rating of rooms: +2 or more,17912
+W06000001,Isle of Anglesey,2,Occupancy rating of rooms: +1,8060
+W06000001,Isle of Anglesey,3,Occupancy rating of rooms: 0,4045
+W06000001,Isle of Anglesey,4,Occupancy rating of rooms: -1,713
+W06000001,Isle of Anglesey,5,Occupancy rating of rooms: -2 or less,92
+W06000002,Gwynedd,-8,Does not apply,0
+W06000002,Gwynedd,1,Occupancy rating of rooms: +2 or more,28294
+W06000002,Gwynedd,2,Occupancy rating of rooms: +1,14457
+W06000002,Gwynedd,3,Occupancy rating of rooms: 0,6858
+W06000002,Gwynedd,4,Occupancy rating of rooms: -1,1289
+W06000002,Gwynedd,5,Occupancy rating of rooms: -2 or less,209
+W06000003,Conwy,-8,Does not apply,0
+W06000003,Conwy,1,Occupancy rating of rooms: +2 or more,25385
+W06000003,Conwy,2,Occupancy rating of rooms: +1,16085
+W06000003,Conwy,3,Occupancy rating of rooms: 0,9086
+W06000003,Conwy,4,Occupancy rating of rooms: -1,1461
+W06000003,Conwy,5,Occupancy rating of rooms: -2 or less,220
+W06000004,Denbighshire,-8,Does not apply,0
+W06000004,Denbighshire,1,Occupancy rating of rooms: +2 or more,20024
+W06000004,Denbighshire,2,Occupancy rating of rooms: +1,13461
+W06000004,Denbighshire,3,Occupancy rating of rooms: 0,7442
+W06000004,Denbighshire,4,Occupancy rating of rooms: -1,1290
+W06000004,Denbighshire,5,Occupancy rating of rooms: -2 or less,169
+W06000005,Flintshire,-8,Does not apply,0
+W06000005,Flintshire,1,Occupancy rating of rooms: +2 or more,35578
+W06000005,Flintshire,2,Occupancy rating of rooms: +1,19117
+W06000005,Flintshire,3,Occupancy rating of rooms: 0,10137
+W06000005,Flintshire,4,Occupancy rating of rooms: -1,1784
+W06000005,Flintshire,5,Occupancy rating of rooms: -2 or less,294
+W06000006,Wrexham,-8,Does not apply,0
+W06000006,Wrexham,1,Occupancy rating of rooms: +2 or more,27698
+W06000006,Wrexham,2,Occupancy rating of rooms: +1,17253
+W06000006,Wrexham,3,Occupancy rating of rooms: 0,10781
+W06000006,Wrexham,4,Occupancy rating of rooms: -1,1883
+W06000006,Wrexham,5,Occupancy rating of rooms: -2 or less,298
+W06000008,Ceredigion,-8,Does not apply,0
+W06000008,Ceredigion,1,Occupancy rating of rooms: +2 or more,17866
+W06000008,Ceredigion,2,Occupancy rating of rooms: +1,7711
+W06000008,Ceredigion,3,Occupancy rating of rooms: 0,4354
+W06000008,Ceredigion,4,Occupancy rating of rooms: -1,844
+W06000008,Ceredigion,5,Occupancy rating of rooms: -2 or less,118
+W06000009,Pembrokeshire,-8,Does not apply,0
+W06000009,Pembrokeshire,1,Occupancy rating of rooms: +2 or more,30392
+W06000009,Pembrokeshire,2,Occupancy rating of rooms: +1,14501
+W06000009,Pembrokeshire,3,Occupancy rating of rooms: 0,8893
+W06000009,Pembrokeshire,4,Occupancy rating of rooms: -1,1491
+W06000009,Pembrokeshire,5,Occupancy rating of rooms: -2 or less,211
+W06000010,Carmarthenshire,-8,Does not apply,0
+W06000010,Carmarthenshire,1,Occupancy rating of rooms: +2 or more,49808
+W06000010,Carmarthenshire,2,Occupancy rating of rooms: +1,19726
+W06000010,Carmarthenshire,3,Occupancy rating of rooms: 0,10245
+W06000010,Carmarthenshire,4,Occupancy rating of rooms: -1,1691
+W06000010,Carmarthenshire,5,Occupancy rating of rooms: -2 or less,290
+W06000011,Swansea,-8,Does not apply,0
+W06000011,Swansea,1,Occupancy rating of rooms: +2 or more,55361
+W06000011,Swansea,2,Occupancy rating of rooms: +1,27261
+W06000011,Swansea,3,Occupancy rating of rooms: 0,18677
+W06000011,Swansea,4,Occupancy rating of rooms: -1,3273
+W06000011,Swansea,5,Occupancy rating of rooms: -2 or less,390
+W06000012,Neath Port Talbot,-8,Does not apply,0
+W06000012,Neath Port Talbot,1,Occupancy rating of rooms: +2 or more,40498
+W06000012,Neath Port Talbot,2,Occupancy rating of rooms: +1,13832
+W06000012,Neath Port Talbot,3,Occupancy rating of rooms: 0,6951
+W06000012,Neath Port Talbot,4,Occupancy rating of rooms: -1,985
+W06000012,Neath Port Talbot,5,Occupancy rating of rooms: -2 or less,109
+W06000013,Bridgend,-8,Does not apply,0
+W06000013,Bridgend,1,Occupancy rating of rooms: +2 or more,38583
+W06000013,Bridgend,2,Occupancy rating of rooms: +1,14701
+W06000013,Bridgend,3,Occupancy rating of rooms: 0,7759
+W06000013,Bridgend,4,Occupancy rating of rooms: -1,1142
+W06000013,Bridgend,5,Occupancy rating of rooms: -2 or less,172
+W06000014,Vale of Glamorgan,-8,Does not apply,0
+W06000014,Vale of Glamorgan,1,Occupancy rating of rooms: +2 or more,34631
+W06000014,Vale of Glamorgan,2,Occupancy rating of rooms: +1,13439
+W06000014,Vale of Glamorgan,3,Occupancy rating of rooms: 0,8183
+W06000014,Vale of Glamorgan,4,Occupancy rating of rooms: -1,1082
+W06000014,Vale of Glamorgan,5,Occupancy rating of rooms: -2 or less,115
+W06000015,Cardiff,-8,Does not apply,0
+W06000015,Cardiff,1,Occupancy rating of rooms: +2 or more,69853
+W06000015,Cardiff,2,Occupancy rating of rooms: +1,35757
+W06000015,Cardiff,3,Occupancy rating of rooms: 0,33572
+W06000015,Cardiff,4,Occupancy rating of rooms: -1,7036
+W06000015,Cardiff,5,Occupancy rating of rooms: -2 or less,1115
+W06000016,Rhondda Cynon Taf,-8,Does not apply,0
+W06000016,Rhondda Cynon Taf,1,Occupancy rating of rooms: +2 or more,63261
+W06000016,Rhondda Cynon Taf,2,Occupancy rating of rooms: +1,24388
+W06000016,Rhondda Cynon Taf,3,Occupancy rating of rooms: 0,13235
+W06000016,Rhondda Cynon Taf,4,Occupancy rating of rooms: -1,2187
+W06000016,Rhondda Cynon Taf,5,Occupancy rating of rooms: -2 or less,269
+W06000018,Caerphilly,-8,Does not apply,0
+W06000018,Caerphilly,1,Occupancy rating of rooms: +2 or more,46383
+W06000018,Caerphilly,2,Occupancy rating of rooms: +1,18615
+W06000018,Caerphilly,3,Occupancy rating of rooms: 0,9620
+W06000018,Caerphilly,4,Occupancy rating of rooms: -1,1432
+W06000018,Caerphilly,5,Occupancy rating of rooms: -2 or less,207
+W06000019,Blaenau Gwent,-8,Does not apply,0
+W06000019,Blaenau Gwent,1,Occupancy rating of rooms: +2 or more,15164
+W06000019,Blaenau Gwent,2,Occupancy rating of rooms: +1,9176
+W06000019,Blaenau Gwent,3,Occupancy rating of rooms: 0,5094
+W06000019,Blaenau Gwent,4,Occupancy rating of rooms: -1,786
+W06000019,Blaenau Gwent,5,Occupancy rating of rooms: -2 or less,120
+W06000020,Torfaen,-8,Does not apply,0
+W06000020,Torfaen,1,Occupancy rating of rooms: +2 or more,21697
+W06000020,Torfaen,2,Occupancy rating of rooms: +1,10543
+W06000020,Torfaen,3,Occupancy rating of rooms: 0,6727
+W06000020,Torfaen,4,Occupancy rating of rooms: -1,1125
+W06000020,Torfaen,5,Occupancy rating of rooms: -2 or less,149
+W06000021,Monmouthshire,-8,Does not apply,0
+W06000021,Monmouthshire,1,Occupancy rating of rooms: +2 or more,25517
+W06000021,Monmouthshire,2,Occupancy rating of rooms: +1,8676
+W06000021,Monmouthshire,3,Occupancy rating of rooms: 0,5842
+W06000021,Monmouthshire,4,Occupancy rating of rooms: -1,810
+W06000021,Monmouthshire,5,Occupancy rating of rooms: -2 or less,79
+W06000022,Newport,-8,Does not apply,0
+W06000022,Newport,1,Occupancy rating of rooms: +2 or more,34942
+W06000022,Newport,2,Occupancy rating of rooms: +1,16955
+W06000022,Newport,3,Occupancy rating of rooms: 0,11464
+W06000022,Newport,4,Occupancy rating of rooms: -1,2105
+W06000022,Newport,5,Occupancy rating of rooms: -2 or less,588
+W06000023,Powys,-8,Does not apply,0
+W06000023,Powys,1,Occupancy rating of rooms: +2 or more,36742
+W06000023,Powys,2,Occupancy rating of rooms: +1,14696
+W06000023,Powys,3,Occupancy rating of rooms: 0,7431
+W06000023,Powys,4,Occupancy rating of rooms: -1,1146
+W06000023,Powys,5,Occupancy rating of rooms: -2 or less,165
+W06000024,Merthyr Tydfil,-8,Does not apply,0
+W06000024,Merthyr Tydfil,1,Occupancy rating of rooms: +2 or more,15609
+W06000024,Merthyr Tydfil,2,Occupancy rating of rooms: +1,6033
+W06000024,Merthyr Tydfil,3,Occupancy rating of rooms: 0,3478
+W06000024,Merthyr Tydfil,4,Occupancy rating of rooms: -1,584
+W06000024,Merthyr Tydfil,5,Occupancy rating of rooms: -2 or less,79
