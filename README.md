@@ -38,11 +38,13 @@ Analysis of UK Census data to uncover housing and socio-economic patterns using 
 1.⁠ ⁠Clone this repository:
 
 git clone 
-Install required Python libraries:
+
+2 . Install required Python libraries:
 
 pip install -r requirements.txt
-Run the notebook:
 
+3. Run the notebook:
+   
 jupyter notebook Python_Script.ipynb
 Open dashboard.twbx in Tableau Desktop (2021.4 or later)
 
